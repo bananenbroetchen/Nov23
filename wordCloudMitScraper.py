@@ -21,7 +21,7 @@ for element in preText:
 # Entferne unerwünschte Zeichen
 text = re.sub(r"[^a-zA-Z0-9 äöüÄÖÜ]", "", text)
 
-wc = WordCloud(width=1920, height=1080, background="white").generate(text)
+wc = WordCloud(width=3840, height=2160, background_color = "white", colormap = "magma").generate(text)
 plt.axis("off")
 plt.imshow(wc, interpolation="bilinear")
 
