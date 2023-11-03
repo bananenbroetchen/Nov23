@@ -15,7 +15,7 @@ finalWordArray = []
 for i in range (0, len(wordArray)):
     finalWordArray.append(re.sub(r"[^a-zA-Z0-9 äöüÄÖÜ]", "", wordArray[i]))
 
-wc = WordCloud(width=1920, height=1080).generate(text)
+wc = WordCloud(width=3840, height=2160, background_color = "white", colormap = "magma").generate(text)
 plt.axis("off")
 plt.imshow(wc, interpolation="bilinear")
 
