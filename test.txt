@@ -1,0 +1,4344 @@
+ERICH KÄSTNER
+DIE SCHULE DER DIKTATOREN
+Aufführungsrechte:
+chronos theatertexte
+Max-Brauer-Allee 34
+22765 Hamburg
+Urheberrechtsvermerk
+© chronos theatertexte [in Verlag für Kindertheater Weitendorf GmbH], Max‐Brauer‐Allee 34,
+22765 Hamburg.
+Alle Rechte vorbehalten.
+Sämtliche Rechte der öffentlichen Wiedergabe (u.a. Aufführungsrecht, Vortragsrecht, Recht der
+öffentlichen Zugänglichmachung und Senderecht) können ausschließlich von chronos theatertexte [in 
+Verlag für Kindertheater Weitendorf GmbH] erworben werden und bedürfen der ausdrücklichen vorherigen 
+schriftlichen Zustimmung.
+Der Text des Bühnenwerkes wird Bühnen / Veranstaltern ausschließlich für Zwecke der Aufführung nach 
+Maßgabe des jeweiligen Aufführungsvertrages zur Verfügung gestellt (Manuskript bzw. pdf‐Datei). Jede 
+darüber hinausgehende Verwertung des Textes des Bühnenwerkes bedarf der ausdrücklichen vorherigen 
+Zustimmung von chronos theatertexte [in Verlag für Kindertheater Weitendorf GmbH]. Das gilt 
+insbesondere für dessen Vervielfältigung, Verbreitung, elektronische Verarbeitung, Übermittlung an Dritte 
+und Speicherung über die Laufzeit des Aufführungsvertrages hinaus. Die vorstehenden Sätze gelten 
+entsprechend, wenn Bühnen / Veranstaltern der Text des Bühnenwerkes ohne vorherigen Abschluss eines
+Aufführungsvertrages zur Ansichtzur Verfügung gestellt wird. Weitere Einzelheiten richten sich nach den 
+zwischen Bühnen / Veranstaltern und chronos theatertexte [in Verlag für Kindertheater Weitendorf GmbH] 
+getroffenen Vereinbarungen.
+Der Text des Bühnenwerkes gilt bis zum Tage der Uraufführung (UA) / deutschsprachigen Erstaufführung 
+(DE) / ersten Aufführung der Neuübersetzung (DE / A) als nicht veröffentlicht im Sinne des
+Urheberrechtsgesetzes. Es ist vor diesem Zeitpunkt nicht gestattet, das Bühnenwerk im Ganzen oder in 
+Teilen oder seinem Inhalt nach der Öffentlichkeit mitzuteilen oder sich mit dem Bühnenwerk öffentlich 
+auseinander zu setzen.
+Nicht von chronos theatertexte [in Verlag für Kindertheater Weitendorf GmbH] genehmigte 
+Verwertungen verletzen das Urheberrecht und können zivilrechtliche und ggf. auch strafrechtliche 
+Folgen nach sich ziehen.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+ERICH
+KÄSTNER
+Die Schule
+der Diktatoren
+Eine Komödie in neun Bildern
+Mit Zeichnungen von Chaval
+Atrium Verlag · Zürich
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+5
+Vorbemerkung
+Dieses Buch ist ein Theaterstück, und der Plan hierzu ist
+zwanzig Jahre alt. Damals wurden viele, mit ihnen der
+Autor, um alle Hoffnungen ärmer und um eine Erfahrung
+reicher. Sie erfuhren, am deutschen Beispiel, dass sich der
+Mensch, unter Beibehaltung seiner fotografi schen Ähnlichkeit, bis zur Unkenntlichkeit verunstalten lässt. Dressierte
+Hunde, auf den Hinterbeinen hüpfend und in Puppenkleidern, wirken abscheulich genug – aber der dressierte, seine
+Würde und sein Gewissen apportierende, der als Mensch
+verkleidete Mensch ist der schrecklichste Anblick. Und obwohl er jeder Beschreibung spottet, wurde versucht, ihn zu
+beschreiben.
+Dieses Buch ist ein Theaterstück und könnte für eine
+Satire gehalten werden. Es ist keine Satire, sondern zeigt den
+Menschen, der sein Zerrbild eingeholt hat, ohne Übertreibung. Sein Zerrbild ist sein Porträt. Kann ein solches Stück
+herkömmlich dankbare Rollen haben? Nein. Einen nuancierenden, die Figuren unterscheidenden Dialog? Nein. Eine
+Entwicklung der Charaktere? Nein. Tragische Konfl ikte?
+Nein! Dergleichen lässt der degradierte, der auf den Hinterbeinen tanzende Mensch nicht zu. Größe und Schuld, Leid
+und Läuterung, Wahrzeichen einer edlen Dramaturgie, liegen im Staub. Man muss es beklagen, doch zuvor muss man
+es bemerken.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+6 7
+Dieses Buch ist ein Theaterstück, und zwar, wollte man
+es etikettieren, eine Haupt- und Staatsaktion. Eine blutigburleske Diktatur wird durch eine tugendhafte Rebellion
+beseitigt. Dann wird der Rebell ermordet, und die nächste
+Diktatur etabliert sich. Er war für sie nur das Vehikel. Er war
+ihr Trojanischer Esel. – Zwei Regierungen werden gestürzt,
+und beide nach den klassischen Regeln des Staatsstreichs.
+Doch zu den alten gesellen sich neue Methoden. Auch der
+Bürgerkrieg kennt moderne Waffen. Sprach früher ein Tribun zu fünftausend Männern, so sprach er zu fünftausend
+Männern. Spricht er heute zu zehn Millionen, so spricht er
+entweder zu zehn Millionen oder, wenn in der Tonkabine
+an einem Knopf gedreht wird, zu niemandem. Er ist besiegt
+und weiß es nicht. Er glaubt zu leben und ist tot. Die Technik des Staatsstreichs hat mit dem Staatsstreich der Technik
+zu rechnen.
+Dieses Buch ist ein Theaterstück und hat ein Anliegen.
+Der Plan ist zwanzig Jahre alt, das Anliegen älter und das
+Thema, leider, nicht veraltet. Es gibt chronische Aktualitäten.
+München, 1956 Erich Kästner
+Personen
+Der Kriegsminister Der Achte
+Der Premier Der Neunte
+Der Leibarzt Paula
+Der Professor Doris
+Der Inspektor Stella
+Der Präsident Eine Wirtin
+Seine Frau Ein Matrose
+Sein Sohn Ein Hausierer
+Der Major Ein Buchhalter
+Der Stadtkommandant Ein Halbwüchsiger
+Der Vierte Ein junges Mädchen
+Der Fünfte Der Nuntius
+Der Sechste Der Doyen
+Der Siebente
+Der Zehnte, der Elfte, der Zwölfte, der Dreizehnte, der
+Vierzehnte, ein Panzerleutnant, ein Unteroffi zier, zwei Soldaten.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+9
+Das erste Bild
+Saal in modernisiertem Palast. Feierlicher Staatsakt. Mikrophone.
+Blumen. Embleme. Auf thronähnlichem Sessel der Präsident,
+mit Gehrock, Ordensband, Schnurr- und Backenbart. (Nötiger
+Hinweis: Haar- und Barttracht dürfen, um von Sache und Sinn
+nicht abzulenken, keinesfalls Erinnerungen an Figuren der neueren Geschichte wachrufen.) In angemessenem Abstande, nicht erhöht, sitzen die Gattin des Präsidenten und der Sohn. Sie: üppig,
+späte Reize, in Pose. Er: jung, gebildet, scheinbar uninteressiert,
+ernst.
+Auf der einen Bühnenseite, stehend, livrierte Diplomatie. An
+ihrer Spitze der Doyen und der Nuntius.
+Auf der anderen Bühnenseite der Kriegsminister, im Rollstuhl,
+voller Orden, ohne Beine. Neben ihm, stehend, der Leibarzt und,
+in Galauniform, der Stadtkommandant. Der Leibarzt: rundlich,
+jovial. Der Stadtkommandant: kühler Generalstäbler.
+Neben den offenen Flügeln des Balkons der Inspektor, Majordomus des Präsidialhaushalts, Herr der Diener, Diener jedes
+Herrn. Vor dem Präsidenten, in der Bühnenmitte, an einem der
+Mikrophone, der Premier- und Innenminister. Man hört seine Ansprache, wie später die Antwort des Präsidenten, zwiefach: einmal
+direkt, zweitens, leicht nachklappend, vom offenen Balkon her,
+durch die Lautsprecher auf dem Großen Platz. Der Premier spricht
+ohne Konzept.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+10 11
+premier am Schlusse seiner Rede: Kabinett, Senat und
+Volk – das heißt, alle außer einem – bitten ihren Präsidenten – und das heißt, eben diesen Einen –, bitten
+und bestürmen ihn, den Neugestalter unseres Staates,
+sein schweres Amt auf Lebenszeit ausüben zu wollen.
+Dieser bis auf seine Stimme einstimmige Wunsch bedarf, das weiß jeder, keiner Abstimmung und Zählung.
+Die Wahlurne wartet nur noch auf ein Votum, auf das
+seine. Freilich, die Unabsetzbarkeit, die wir als unwiederholbare Ehrung meinen, ist im Grunde, wir wissen
+es, eine Bürde ohne Grenze, eine Zumutung bis ans
+Grab. Wenn wir ihn, den Einen, trotzdem bitten und
+bestürmen, so nur, weil ohne ihn Volk und Staat ohne
+Kopf und Hand wären. Im Zeitalter des Absolutismus
+durfte ein König von sich sagen, der Staat sei er. Das war
+eine Lüge ins Gesicht der Geschichte, und fürstliche
+Anmaßung war es obendrein. Erst wenn wir den Satz
+aufgreifen, die Regierten statt des Regenten, empfängt
+er, endlich, Sinn und Würde. So verstanden, wollen wir
+unsere allstimmige Bitte, den Artikel über Ihre Unabsetzbarkeit durch Ihr Ja zu ratifi zieren, in dem Ruf ausklingen lassen: Der Staat, unser Staat, sind Sie! (Verneigt
+sich tief, tritt zum Kriegsminister, der ihm kernig die Hand
+drückt.)
+inspektor hat beizeiten am Balkon ein Zeichen nach draußen
+gegeben.
+sprechchöre mechanische, einstudierte Begeisterung der Massen auf dem Großen Platz: Präsident – sag Ja! Präsident –
+sag Ja! Der Staat – bist du! Der Staat – bist du!
+präsident zieht langsam sein Manuskript aus der Brusttasche.
+inspektor gibt ein zweites Zeichen. Die Sprechchöre verebben.
+Draußen und im Saal tiefe Stille.
+präsident liest, sitzend und ins Mikrophon sprechend, die Rede
+ab. Pausen zwischen den Sätzen. Tonart markig. Bei Steigerungen prahlend: Ich bin bekanntlich kein Freund vieler
+Worte. Ich ziehe es vor, Taten sprechen zu lassen. Die
+Welt weiß das. Ich habe nicht die Absicht, meinen Jargon zu wechseln. Die Weltgeschichte wird es eines
+Tages wissen. Manches haben wir im Lauf der Jahre
+durch die knappe, international verständliche Sprache
+der Taten erreicht. Die Freunde achten uns. Die Feinde
+fürchten uns. Das ist in unserem verfehlten Jahrhundert
+keine Selbstverständlichkeit mehr. Nicht in den Staaten.
+Nicht zwischen den Staaten. Wir haben unsere Grenzen
+ausgedehnt. Nicht etwa, um unsere Macht zu beweisen. Wirkliche Macht hält keine Manöver ab. Sondern
+um abgesprengte Teile unseres Volkes heimzuholen.
+Im Land herrschen Ruhe und Einmütigkeit. Es bedurfte
+keiner Überredung. Das Volk wurde überzeugt. Noch
+gibt es vereinzelte Widersacher. Neinsager aus Profession und Verräter in fremdem Sold und Auftrag. Aber
+sie hocken im Mauseloch der Angst. Ein Schritt, ein
+Satz genügt, und sie sitzen in der Falle. Mauseloch oder
+Mausefalle, die Leute haben die Wahl. Diese und keine
+andre. Man lasse es sich gesagt sein. Die Arbeit wurde
+erst halb getan. Ganze Arbeit ist nötig. Wer soll sie leisten? Wer kann sie leisten? Verantwortung ist unteilbar.
+Pfl ichtgefühl kennt, außer dem letzten Stündchen, keine
+Termine. Gegen das Amt und die Ehre, zu denen man
+mich auf Lebenszeit verurteilt hat, gibt es, vor Volk und 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+12
+Geschichte, keine Berufungsinstanz. Ich danke also für
+die schwere Last, die man mir hier und heute aufbürdet.
+Ich nehme Amt, Ehre und Bürde an!
+inspektor gibt einen Wink nach draußen.
+sprechchöre wieder in konfektionierter Begeisterung: Hoch!
+Hoch! Hoch! Präsident – hab Dank! Präsident – hab
+Dank!
+Von fern Kanonensalut.
+kriegsminister schaut auf die Armbanduhr, nickt dem Stadtkommandanten befriedigt zu.
+präsident steckt das Manuskript in die Brusttasche zurück.
+sprechchöre: Wir wollen – den Präsidenten – sehn!
+Wir wollen – den Präsidenten – sehn! Präsidenten –
+sehn! … denten – sehn!
+präsident steht auf und steigt vom Podium.
+gattin und sohn erheben sich.
+präsident reicht der Gattin den Arm. Beide, hinter ihnen der
+Sohn, schreiten dem Balkon zu.
+diplomatie verneigt sich konventionell.
+inspektor gibt nach draußen ein Zeichen.
+Auf dem Großen Platz tritt Totenstille ein.
+präsident geht, um besser gesehen zu werden und um winken
+zu können, einen weiteren Schritt vor.
+von draussen ein peitschender Schuss.
+präsident taumelt, greift sich ins Gesicht.
+gleichzeitig Leibarzt läuft zum Präsidenten, untersucht die 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+14 15
+Wunde. Auf dem Großen Platz Tumult. Der Kriegsminister
+blickt den Stadtkommandanten ärgerlich an.
+stadtkommandant eilig ab.
+inspektor ruft in den Saal: Ein Mann auf dem Dach der
+Akademie! (Gewehrsalven. Inspektor meldet laut.) Er fällt.
+Hält sich an der Dachrinne fest. (Draußen ein Aufschrei.)
+Erledigt.
+leibarzt: Nur ein Streifschuss. Belanglose Fleischwunde.
+(Zur Gattin des Präsidenten, sie an ihre Pfl ichten erinnernd.)
+Es besteht kein Grund zu ernstlichen Besorgnissen.
+gattin spielt teilnahmsvoll: Gott sei Dank.
+doyen zum Nuntius: Ein schlechter Schütze.
+nuntius: Das käme auf seinen Auftrag an.
+premier ist zum Präsidenten getreten: Ich beglückwünsche
+Sie und uns!
+präsident wütend: Ein schöner Geburtstag!
+doyen zum Nuntius: Meine Regierung wird sehr betroffen
+sein.
+nuntius: Der Vatikan auch.
+doyen: Worüber, Exzellenz?
+nuntius: Es ist nicht das erste Attentat auf ihn.
+doyen: Er hat die Angewohnheit, die Attentäter zu überleben.
+nuntius: Eine schlechte Angewohnheit. Für seine Feinde.
+leibarzt zum Präsidenten: Ich verordne Ihnen Bettruhe. Sie
+müssen sich schonen.
+kriegsminister ruft vom Rollstuhl aus: Der Premierminister sollte kurz zur Menge sprechen!
+premier: Kurz und unmissverständlich. (Will zu einem der
+Mikrophone.)
+präsident hält ihn zurück, macht sich vom Leibarzt los und tritt
+selber vor ein Mikrophon.
+premier gibt nur widerwillig nach. Man tauscht hinterm Rücken
+des Präsidenten betroffene Blicke.
+präsident gar nicht mehr im Stil und Ton seiner vorigen Ansprache: Hier spricht der Präsident. Es ist nur ein Kratzer.
+Der Täter ist tot. Nicht ich. Es sollte wohl so sein. Und
+nicht zum ersten Male. Wäre ja auch ein schlechter Witz
+gewesen, wenn ich meine Ernennung auf Lebenszeit
+nur eine Minute überlebt hätte. Und schlechte Witze
+mag ich nicht. Immerhin, ich will meinem Glück nicht
+undankbar sein. (Holt tief Luft.) Anlässlich meines Geburtstages, meiner Ernennung, meiner Errettung sowie
+im vollen Vertrauen auf die staatlichen Sicherungen
+amnestiere ich hiermit tausend politische Gefangene.
+Die näheren Ausführungen wird der Justizminister bekanntgeben.
+draussen spärliche, schüchterne Hochrufe.
+präsident abwinkend: Schon gut, schon gut! Und geht
+nach Hause! (Klopft der zusammenzuckenden Gattin auf die
+Schulter und nimmt ihren Arm.)
+kriegsminister, premier und leibarzt beherrschen sich
+nach Kräften. Die Balkontüren schließen sich automatisch.
+nuntius zum Doyen: Seit wann ist er großmütig?
+doyen: Hoffentlich ist es kein Irrtum. (Tritt zum Präsidenten.) Exzellenz, das Ausland beglückwünscht Sie durch
+mich, den Doyen seiner diplomatischen Vertreter, vierfach – zum Geburtstag, zur Ernennung auf Lebenszeit,
+zu Ihrer Errettung und zu der von Ihnen verkündeten
+großherzigen Amnestie.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+16
+präsident: Ich danke Ihnen, Exzellenz. Ich danke dem gesamten Diplomatischen Corps. Großherzig, sagen Sie?
+Das ist übertrieben. Tausend Gefangene? Wir haben genug von der Sorte. (Gibt dem Doyen die Hand.)
+diplomaten verbeugen sich gemessen und gehen durch die sich
+automatisch öffnende Tür ab. Die Tür schließt sich.
+gattin tritt jetzt voller Abscheu vom Präsidenten weg. kriegsminister wütend: Eine Seele von Mensch, unser Herr
+Präsident! Die Güte selbst! Pastor hätten Sie werden sollen!
+präsident ängstlich und ärgerlich zugleich: Milde nach einem
+Attentat macht immer Eindruck.
+premier: Wir danken für die nachträgliche Belehrung.
+kriegsminister eiskalt: Stand die Amnestie in dem Manuskript?
+präsident stampft mit dem Fuß auf: Das Attentat stand auch
+nicht auf Ihrem Wisch! – Ich bin es nicht gewöhnt, dass
+man auf mich schießt, während ich auf Balkons stehe!
+leibarzt besänftigend: Aber meine Herren! Seine Erregung
+ist begreifl ich. (Zum Präsidenten.) Ich mache Ihnen nachher eine Injektion. Mit Wundfi eber ist nicht zu spaßen.
+(Mit einer Kopfbewegung zum Inspektor.) Bringen Sie ihn
+fort!
+inspektor packt den Präsidenten resolut am Arm.
+präsident zögert.
+inspektor ironisch: Nach Ihnen, Herr Präsident!
+Beide durch die automatisch regulierten Türen ab.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+18 19
+kriegsminister: Man sollte den Kerl backpfeifen.
+gattin: Es ist empörend! Nächstens haut er mir, vor aller
+Welt, eins hintendrauf! Als mein Mann noch lebte …
+kriegsminister: … waren Sie nicht so empfi ndlich.
+leibarzt: Die Repräsentationspfl ichten der letzten Monate waren recht aufreibend. Wir sollten die hochverehrte Gattin unseres hochverehrten Präsidenten wieder
+einmal in die Natur schicken.
+gattin enchantiert: Bravo, Doktor! Ich möchte nach Nizza.
+premier: Wir möchten das weniger. Es ist ein bisschen
+weit.
+leibarzt: So viel Natur wie im Hotel »Negresco« gibt’s
+hierzulande auch.
+kriegsminister: Ich attachiere Ihnen einen jungen Major
+von der Kriegsschule, dem man diesbezüglich nichts
+vorwerfen kann.
+gattin: Sie verspätetes Ferkel! Als mein Mann noch lebte,
+hätten Sie mir so etwas nicht ins Gesicht gesagt!
+kriegsminister: Nein, meine Beste! Ins Gesicht nicht.
+gattin: Er hätte das, was von Ihrer Figur übriggeblieben
+ist, verkehrt aufhängen lassen!
+kriegsminister: Sicher. Er hätte. Aber mir riss es damals
+nur die Beine ab und ihm den Kopf. Sogar Bomben und
+Höllenmaschinen sind ungerecht. Man muss sich damit
+abfi nden.
+gattin: Diese nachgemachten Kerle, mit denen ihr mich
+seitdem garniert! Diese …
+premier: Das Staatsinteresse verlangte es, dass Ihr Mann
+seinen Tod überlebte.
+gattin lachend: Das Staatsinteresse?
+kriegsminister: Hören Sie gut zu, Madame! Es war nicht
+ganz einfach, einen toten Diktator nachzumachen. Seine
+Frau durchzupausen, dürfte erheblich leichter sein.
+premier: Das ist anzunehmen.
+gattin: weicht erschrocken zurück.
+leibarzt gemütlich: Sie lassen die Koffer packen und fahren
+ins Bad. Das Attentat hat Ihre Nerven angegriffen. Die
+Presse und die Zeitungsabonnenten haben ein Herz für
+dergleichen.
+kriegsminister: Der Major reist in Ihrer Suite. Er wird Ihren Nerven guttun. Außerdem hat er aufzupassen, dass
+Sie keine Dummheiten machen. Außer mit ihm.
+stadtkommandant kommt eilig in den Saal.
+kriegsminister: Nun?
+stadtkommandant: Es war ein Student der Technischen
+Hochschule. Wadenschuss. Fiel vom Dach. Bruch der
+Schädelbasis. Der Portier der Akademie wurde verhaftet.
+premier: Die Angehörigen und Freunde des Studenten?
+stadtkommandant: Alles Erforderliche wurde angeordnet.
+kriegsminister: Ausnahmezustand?
+stadtkommandant: Ich möchte abraten. Die schärfsten
+Maßnahmen stumpfen am leichtesten ab.
+premier nach kurzem Blick auf den Kriegsminister: Also gut.
+kriegsminister: Danke, General.
+stadtkommandant salutiert und geht ab.
+kriegsminister: Wieder ein Student! Bildung ist staatsgefährlich.
+leibarzt gutgelaunt: Medizin hat zum Glück nichts mit Bildung zu tun.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+20 21
+premier zum Sohn des Präsidenten: Werden Sie Ihre Frau
+Mutter begleiten?
+sohn: Ich bliebe lieber in der Hauptstadt.
+premier: Wie Sie wünschen.
+kriegsminister zum Sohn: Neulich hab ich geträumt, Sie
+hätten gegenüber der Universität einen Buchladen eröffnet. Auf dem Schild stand: »Inhaber – der Sohn des
+Präsidenten«. Ich konnte kaum wieder einschlafen.
+sohn höfl ich: Es war Ihr Traum, Herr Minister. Ich träume
+fast nie.
+leibarzt: Nachts, meinen Sie.
+sohn lächelt konventionell.
+premier: Die Mutter reist. Der Sohn bleibt.
+kriegsminister dreht sein Fahrzeug herum. Die Hebelgriffe
+stellen Säbelkörbe dar: Und was wird mit dem Präsidenten? Ich bin seinetwegen in Sorge.
+leibarzt zuversichtlich: Wir werden uns seiner Genesung
+nicht weniger widmen als dem Wohl des Staats.
+premier: Gehen wir. (Die Tür öffnet sich.)
+Das zweite Bild
+Zimmer des Präsidenten. Inmitten kostbaren Palastmobiliars eine
+Art Schusterwerkstatt. Neben und auf dem großen Arbeitstisch
+Stiefelschäfte, Sohlenleder, Schuhleisten, Hämmer, Messer, Feilen,
+Fadenwachs, Ahlen, Nägel. Auf einem Empiresessel Gehrock und
+Ordensband.
+präsident auf einem Schusterschemel, in Hemdsärmeln, einen
+Schuh im Knieriemen, ein paar Holzstifte zwischen den Lippen. Er nagelt, Stift um Stift aus dem Munde nehmend, sorgfältig einen Sohlenrand: Eisennägel mit Köpfen sind härter. Holzstifte ohne Kuppen halten besser. So! (Nimmt
+eine Feile, dann Sandpapier. Raspelt den Sohlenrand glatt.)
+inspektor herumlungernd: Und warum sind Sie nicht bei
+Ihren Leisten geblieben?
+präsident: Es ergab sich. Nach eurer glorreichen Revolution. Als unsere Gewerkschaft aufgelöst wurde. Der Präsident kam ans Ruder. Und ich ins Gefängnis. – Sagen Sie,
+der wievielte Abklatsch unsres »großen Staatsmannes«
+bin ich eigentlich? Der dritte oder der vierte?
+inspektor schweigt.
+präsident: Na ja. Politik ist etwas sehr Schönes. Immerhin, im Gefängnis gab’s Arbeit. Der Staat brauchte
+Soldaten. Und Soldaten brauchen Stiefel. Nach der
+Entlassung war’s aus. Polizeiaufsicht. Drohbriefe. Einge-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+23
+schlagne Fensterscheiben. Boykott. Feige Freunde. Schadenfrohe Nachbarn. Kam ein Kunde, war’s ein Spitzel.
+Die Kinder hatten Hunger. Die Frau wurde krank. Litt
+an der modernen Krankheit namens Angst. Dagegen
+gibt’s noch kein Serum. (Hämmert.) Ja, Politik ist etwas
+sehr Schönes. Als ich nicht mehr weiter wusste, lernte
+ich den Professor kennen. So ein Zufall, was? (Hält den
+Schuh dicht an die Augen und prüft die Sohle.) Und jetzt geht
+es der Frau und den Kindern gut. Sie leben bei meiner
+Schwiegermutter auf dem Land. Jeden Monat kriegen
+sie Post und Geld von mir. (Lacht.) Aus Casablanca! Weil
+ich doch gefl üchtet bin und in Casablanca eine Werkstatt mit drei Gesellen habe! Der eine heißt Ali und ist
+ein blonder Berber. Ich kann das wie am Schnürchen.
+Und sie schreiben mir schöne Briefe. Nach Casablanca!
+Sie hätten große Sehnsucht nach mir. Aber ich solle um
+Gottes willen dortbleiben. (Legt den Schuh beiseite, nimmt
+einen anderen.) Politik ist etwas Wunderbares! Nur Pauls
+linkes Auge macht ihnen Sorge. Das rechte hat man ihm
+vor drei Jahren in der Schule ausgeschlagen. Weil sein
+Vater ein Staatsfeind ist.
+inspektor: Brauchen Sie ein Taschentuch?
+präsident: Seit wann sind Sie so frech zu mir?
+inspektor: Seit heute, Herr Präsident.
+Die Tür geht auf. Der Leibarzt und der Premier kommen. Hinter
+ihnen, im Rollstuhl, der Kriegsminister. Die Tür schließt sich. Der
+Premier nimmt in einem Sessel Platz.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+24
+leibarzt mit medizinischem Besteck, präpariert eine Injektion:
+Krempeln Sie einen Ärmel hoch! (Da der Präsident zögert,
+zum Inspektor.) Er möchte, dass Sie ihm helfen.
+präsident: Ein Kratzer, nichts weiter.
+leibarzt: Trotzdem, mein Bester. Sicher ist sicher. (Macht
+die Einspritzung in die Armbeuge, tupft ab, gibt Spritze, Ampulle und Watte in den Besteckkasten zurück, klopft dem Patienten auf die Schulter.) So. Gleich ist alles vorbei. (Setzt sich
+neben den Premier.)
+premier: Sie wissen, dass Ihre rührende Improvisation auf
+dem Balkon einen schweren Verstoß gegen den von Ihnen beschworenen Gehorsam bedeutet?
+präsident: Der Moment war richtig. Und die Amnestie
+war richtig. Ich kenne die Bevölkerung besser als Sie.
+Außerdem freut mich die Sache. Sie waren ja wohl noch
+nicht im Gefängnis. Aber ich! (Lachend.) Bevor ich Präsident wurde.
+kriegsminister kopfschüttelnd: Er glaubt tatsächlich, dass
+wir tausend solche Subjekte auf die Straße lassen!
+präsident: Nein? Sie wollen nicht? Ich warne Sie! Die
+Welt wird sich sehr wundern, wenn Sie eine Verfügung
+Ihres Präsidenten hintertreiben!
+premier leicht belustigt: Er warnt uns!
+präsident greift sich ans Herz.
+kriegsminister: Ein zu dummer Mensch!
+leibarzt zum Inspektor: Ziehen Sie ihm den Rock an! Es
+macht sich besser. (Zum Präsidenten.) Und Sie sollten
+sich nicht so aufregen! (Während sich der Präsident an den
+Hals fasst.) Da haben Sie’s! Herzstiche. Atemnot. Setzen
+Sie sich hin, und halten Sie den Mund! Es ist gesünder.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+26 27
+premier zu Kriegsminister und Leibarzt: Wir müssen mit dem
+Professor ernsthaft reden. Dergleichen darf nicht wieder vorkommen. Die ausländischen Diplomaten waren
+wie vor den Kopf geschlagen.
+präsident taumelt, jetzt im Gehrock, auf den Schusterschemel,
+trocknet sich die Stirn, ringt nach Luft. Nur der Inspektor beobachtet ihn.
+premier: Man wird aus der Amnestie eine nachlassende
+Energie schließen. Auf den Versuch, einzulenken, ja,
+sich anzubiedern!
+leibarzt vergnügt: Womöglich auf beginnende Altersweisheit!
+kriegsminister mit der Faust auf die Lehne des Rollstuhls
+schlagend: Jeder Erfolg, jeder Rückschlag und jedes Attentat machen den Präsidenten jünger und härter, feuriger und kälter. So lautet unser Katechismus. Die Welt
+greift schon in die Tasche, ehe er etwas haben will. Wehe
+dem Esel, der uns dazwischenpfuscht! (Kopfbewegung
+zum Präsidenten hin.) Man sollte seinem Nachfolger die
+Zunge herausschneiden und im Bauch ein Grammophon einnähen lassen.
+präsident stiert sie an, will sich aufrichten, fällt auf den Schemel zurück: Noch lebe ich, meine Herren! (Man nimmt von
+ihm keine Notiz mehr.)
+premier: Die Amnestie denke ich mir, in großen Zügen,
+folgendermaßen …
+kriegsminister: Ich bin ganz Ohr.
+premier: Wir entlassen, für ein paar Tage, aus verschiedenen Gefängnissen und Lagern, hundert unserer zuverlässigsten Spitzel. Bei dieser Gelegenheit Aufnahmen für
+die Wochenschau und Interviews für Funk und Presse.
+Über die nahrhafte Anstaltskost, die gute Behandlung,
+die vielseitige Gefängnisbibliothek und die zufriedenstellenden sanitären Verhältnisse. Das Lob nicht zu dick
+aufgetragen und nur zögernd, ein wenig widerwillig
+erteilt. Für die Illustrierten am besten das eine und andere Genrebildchen mit nettem Text. »Wiedersehen mit
+der braven alten Mutter.« – »Glücklicher Vater sieht sein
+Kind zum ersten Mal.« – »Endlich wieder an der Drehbank.«
+leibarzt zum Kriegsminister: Er hat die Phantasie einer
+Waschfrau.
+premier: Darf ich Ihre Bemerkung für ein Kompliment
+halten?
+leibarzt: Es ist ja eines!
+premier: Nach, sagen wir, vier Tagen schicken wir die hundert Leute in die Gefängnisse zurück. Natürlich keinen
+in die Anstalt, aus der er entlassen wurde!
+kriegsminister schaut auf die Uhr: Was uns (mit Kopfbewegung zum Präsidenten) der Idiot für Scherereien macht!
+Ich müsste jetzt die Achte Panzerdivision inspizieren!
+Stattdessen amnestieren wir Spitzel!
+präsident mit letzter Kraft: Doktor! (Zeigt auf seinen Arm.)
+War es Gift?
+premier: Die Panzer können warten.
+präsident: Doktor! Muss ich sterben?
+leibarzt: Ja. Warum?
+präsident greift sich an den Hals. Heiser: Mörder! Ihr
+Mörder!
+kriegsminister: Ungehorsam ist eine Krankheit, die hier-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+29
+zulande tödlich verläuft. Das lernt man schon in der
+Schule.
+premier: Eine Krankheit, die immer seltener wird.
+leibarzt: Wir haben’s eilig. (Zum Inspektor.) Schreiben
+Sie! – »Bulletin. Datum. Das empörende Attentat auf den
+Staatschef ist, zum Glück des Landes, glimpfl ich abgelaufen. Die Kugel streifte die rechte Gesichtshälfte unterhalb des Jochbogens. Die Wunde ist etwa fünf Zentimeter lang. Vorsichtsmaßregeln wurden sofort ergriffen.«
+inspektor schreibend: »… ergriffen.«
+präsident hilfl os und jammernd: Und das Geld? Das Geld
+aus Casablanca? Für die Frau und die Kinder?
+inspektor unwillig: Pst!
+leibarzt: »Dem Präsidenten wurde vorsorglich strikte
+Bettruhe verordnet. In spätestens einer Woche wird er
+wieder den Staatsgeschäften nachgehen können. Der
+Leibarzt. Unterschrift.«
+inspektor: »Der Leibarzt. Unterschrift.«
+premier: Die Erklärung geht sofort dem Pressechef des Innenministeriums zu. Er veranlasst das Weitere.
+präsident dem Ersticken nahe. Rafft sich auf. Versucht zu stehen. Torkelt. Schreit: Freiheit! (Bricht über seinem Schustertisch zusammen.)
+kriegsminister blickt auf die Armbanduhr.
+leibarzt tritt zur Leiche. Untersucht Puls und Auge: Wir können gehen. (Zum Inspektor.) Sie bürgen dafür, dass sich
+der teure Entschlafene in Rauch und Wohlgefallen auflöst.
+kriegsminister: Und dass niemand seine Abwesenheit
+bemerkt! Keiner außer Ihnen betritt das Zimmer!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+30 31
+inspektor: Ich lasse die Mahlzeiten für den Präsidenten
+im Vorzimmer abstellen, serviere sie hier und esse sie
+selber.
+leibarzt: Guten Appetit!
+kriegsminister drängend: Meine Herren? (Schwenkt den
+Rollstuhl herum.)
+premier zum Inspektor: Telefonieren Sie! Man soll uns etwas
+kaltes Gefl ügel zum Auto schicken. Wir essen während
+der Fahrt.
+leibarzt: Und zwei Flaschen Beaujolais.
+kriegsminister: Und sagen Sie die Inspektion ab!
+inspektor: Achte Panzerdivision. (Geht zur Tür.)
+leibarzt zeigt auf den Toten: Und die Hauptsache!
+inspektor beim Türöffnen: Kaltes Gefl ügel, Beaujolais,
+Achte Panzerdivision – und die Hauptsache!
+Vorhang
+Das dritte Bild
+Parkszenerie. Gestutzte Hecken. Im Hintergrund, seitlich angeschnitten, Rückfront eines Rokokoschlösschens, blinde Fenster,
+schmale Freitreppe zu kleinem Portal. Im Vordergrund bequeme
+moderne Gartenmöbel und eine pikante Marmorgruppe, Stil
+Louis XV. Auf einem Stuhl Pauline, im Negligé, mit Lockenwickeln, mollig, phlegmatisch. Im Gras Doris, Zehennägel lackierend.
+pauline: Es gibt zwei Sorten Männer. Die einen bestellen
+Sekt, weil er teuer ist, und die andern, obwohl er teuer ist.
+doris (wie meist) ironisch und in parodistisch »gewählter« Rede:
+Es soll, wie man zuweilen hört, auch Männer geben,
+denen Sekt zu teuer ist.
+pauline: Ich war immer in den feinsten Etablissements!
+doris: Da lernt man die Welt kennen.
+pauline: Das walte Gott! Und wie teilst du die Männer ein?
+doris: Ich widme mein Dasein der lieblichen Vermutung,
+dass sich jeder vom andern unterscheide.
+pauline: Wo du sonst so intelligent bist!
+doris: Ich habe sie weder gezählt noch sortiert.
+pauline: Tu’s trotzdem! Mich interessiert deine Meinung
+viel mehr als meine.
+doris: Sie kann uns nichts mehr nützen. (Legt sich ins Gras
+zurück.) Es gibt Männer, die von einer Dame erwarten,
+dass sie sich zu jeder Tages- und Nachtzeit als Dame 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+32 33
+verhält. Das sind die Langweiligsten. Es gibt Männer, die
+darauf bestehen, dass man das Damenhafte mit den übrigen Kleidungsstücken über den Stuhl hängt. Das sind
+die Nettesten. Und die Gefährlichsten. Denn das Zeug
+aus dem Wäschegeschäft fi ndet man hinterher wieder.
+Aber das andere? (Lacht.) Ich fand eines schönen Morgens nicht einmal mein Hemd mehr.
+pauline lüstern: Wie kam das?
+doris: Dann gibt es welche, die ausgerechnet zu uns, bewährten Künstlerinnen ihres Gewerbes, kommen, damit wir ihnen die vornehme Dame in jeder Lebenslage
+vorspielen.
+pauline: Anstrengende Leute!
+doris: Sie zahlen gut. Viertens und letztens gibt es Männer, die von einer Hure nichts weiter wünschen, als dass
+sie eine Hure ist. Das dürften die Bequemsten sein. (Legt
+einen Arm über die Augen.) Falls ich mich nicht irre.
+pauline: An den vier Sorten ist was dran. Vergiss deine
+Zehen nicht!
+doris setzt sich schnell auf: Lasst uns das Weiberfl eisch polieren! Mit Narden, Rosenöl und Nagellack! (Pinselt die
+Zehennägel sorgfältig.) Das staatlich angestellte Haremsfl eisch mit Beamtencharakter und Pensionsberechtigung! Für wen strickst du eigentlich Handschuhe?
+pauline: Für den ohne Blinddarm. Er war Chauffeur bei
+der Staatsbank. Genau wie mein Bruder.
+doris: So etwas verbindet. Wie kam er hierher?
+pauline: Es muss mit einem Goldtransport zusammenhängen, der ausgeraubt wurde. Er spricht nicht gern
+darüber.
+doris: Schloss Belvedere ist eine Abfalltonne. Ungeschickte Bankräuber! Selbstmörder, denen der Strick
+riss! Kaufl eute nach dem dritten Bankrott!
+pauline: Für Dreck hat der Professor eine feine Nase.
+doris: Freiheitssänger, denen in der Dunkelheit das Singen
+verging! Abenteurer ohne Abenteuer! Dazu ein halbes
+Dutzend Frauenzimmer wie du und ich! Exemplare aus
+der erotischen Leihbibliothek! Billige Bettlektüre! Damit
+die Bande nicht überschnappt!
+pauline: »Zappelnde Wärmfl aschen«, sagtest du neulich.
+Das fand ich besonders hübsch.
+Die Pavillontür öffnet sich. Stella, ein blasses junges Mädchen, tritt
+zögernd ins Freie. Sie geht langsam auf die beiden anderen zu.
+stella: Störe ich Sie?
+pauline: Komm her und setz dich!
+stella: Man hat mir Zimmer sechs gegeben. Es ist Ihnen
+doch recht?
+pauline: Es stand sowieso leer.
+doris: Deine Vorgängerin gab vor vierzehn Tagen plötzlich ihren Geist auf. Ohne bis dahin einen solchen besessen zu haben. Das war das Erstaunlichste an der Geschichte.
+stella: Oh, woran starb sie denn?
+doris: An einem zu kräftigen Händedruck.
+pauline: Ich wohne in Fünf und hörte sie schreien. Dann
+brüllte ein Mann. Dann war’s aus.
+stella entsetzt: Der Präsident? (Die beiden schweigen.) Der
+Präsident hat eine Frau – erwürgt?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+34 35
+pauline strickend: Eifersucht ist eine heimtückische Krankheit.
+stella: Aber wie kann der Präsident auf eine von Ihnen,
+Verzeihung, auf eine von uns eifersüchtig sein? Man
+weiß draußen ganz gut Bescheid, wie es hier zugeht.
+Dass er im Belvedere einen Harem hat und fast täglich
+mit seinem gepanzerten Auto herauskommt! Deswegen
+bin ich ja hier!
+doris: Deswegen?
+stella: Darf ich Sie um etwas bitten? Wenn er das nächste
+Mal da ist – Sie kennen ihn ja ganz gut, alle beide – könnten Sie ihm dann beibringen, dass im Zimmer sechs eine
+Neue wohnt, ein hübsches, junges Mädchen? »Hübsch«
+ist vielleicht nicht wahr, aber »jung«, das stimmt.
+doris: Und warum hast du’s so eilig?
+stella: Ich muss ihn sprechen.
+pauline lacht: Sprechen?
+stella: Alles, was er will. Es kommt nicht mehr drauf an.
+doris: Erzähl uns deine Geschichte! Wir schwärmen für
+Sittengemälde. Zuerst, wie heißt du?
+stella: Stella. Mein Vater ist Senator. War Senator. Eines
+Tages ließ ihn ein sehr hoher Staatsbeamter rufen und
+teilte ihm mit, dass er ihn, aus politischen Gründen, umgehend verhaften lassen werde – es sei denn, ich zöge als
+Vorleserin in sein Landhaus.
+pauline: Vorleserin war ich auch einmal. Mit sechzehn.
+Der alte Knabe hatte tolle Bücher!
+doris: Und da sagte der Senator zu seiner Tochter: »Sei ein
+gutes Kind, gehorsam und brav, kauf dir Spitzenwäsche,
+vergiss die Zahnbürste nicht und hab immer vor Augen
+und im Herzen, was mir geschähe, wenn der sehr hohe
+Staatsbeamte mit dir unzufrieden wäre. Gott schütze
+dich, und sei fl eißig!«
+pauline: Und du gingst.
+stella: Ich ging. Später kam er trotzdem ins Gefängnis.
+Obwohl ich bis dahin … (senkt den Kopf, dann) Obwohl
+der andere sehr zufrieden war. Ich fl oh. Ich wollte den
+Präsidenten sprechen. Man ließ mich nicht vor. Nicht
+einmal der Leibarzt, den ich kenne, brachte es zuwege.
+Aber ich durfte bei seiner Schwester wohnen. Dort traf
+ich einen alten Herrn. Ich erzählte ihm alles. Und er verhalf mir hierher.
+doris: Wie reizend von ihm.
+stella: Schlimmer, als es war, kann es nicht werden. Und
+mein Vater sitzt im Gefängnis.
+pauline: Deine stets dankbare Tochter Stella!
+doris: Hör gut zu: Es gibt gar keinen Präsidenten!
+stella begreift nicht.
+pauline: Er ist längst mausetot!
+professor kommt, Hände auf dem Rücken, aus dem Park,
+bleibt, von den Mädchen unbemerkt, stehen und hört zu.
+stella: Tot? Und wer hält die Reden? Wer setzt die Minister ab? Wer unterschreibt die Todesurteile? Wer weiht
+die Denkmäler ein? Wer wird bei Attentaten verwundet?
+doris: Papageien im Gehrock. Aufgezogene Automaten,
+ungefähr so groß und breit wie der Präsident, bevor er
+krepierte. Zur Zeit regiert der dritte Hampelmann. Oder
+der vierte.
+pauline: Wir kennen sie auseinander. Den Gehrock behal-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+36 37
+ten sie bei uns nicht an. Der eine hat einen Leberfl eck am
+rechten Schulterblatt, der andere eine Blinddarmnarbe,
+der dritte hat Hühneraugen.
+doris: Und auch sonst bemerken wir mancherlei, was bei
+Denkmalseinweihungen nicht unbedingt auffällt.
+stella springt hoch: Ich will fort!
+pauline: Von uns kommt keine wieder heraus. Höchstens
+mit den Füßen vorneweg.
+professor näher kommend: Nicht einmal dann.
+stella: Das ist er!
+doris: Der nette alte Herr? Du bist eine Menschenkennerin.
+professor: Redseligen Senatorentöchtern muss man beizeiten einen Beruf verschaffen, der sie anderweitig ausfüllt. Sie haben sich mit Ihren neuen Kolleginnen schon
+angefreundet? Das ist recht, mein Kind. Sie werden von
+ihnen vieles lernen können.
+stella will ihm an die Kehle.
+pauline umklammert sie: Lass den Unsinn!
+Ein Gong ertönt.
+professor: Es ist so weit. Keine verlässt ihr Zimmer. (Zu
+Stella.) Studiere die Hausordnung und die Strafen, mit denen hier Insubordination vergolten wird! Sollte dir der Präsident, den es nicht gibt, schon heute die Ehre seines Besuches zugedacht haben, empfange ihn, wie es sich für eine
+gute Staatsbürgerin ziemt! Fort mit euch!
+doris während sie die willenlose Stella unterfasst: Warum besuchen Sie uns nie?
+pauline lacht hämisch.
+professor leise: Fort mich euch!
+Während Pauline und Doris Stella in den Pavillon führen, blickt
+der Professor prüfend in die Kulissen. Es kommen der Vierte, der
+Fünfte, der Sechste und der Siebente auf die Bühne. Alle vier gleich
+groß, gleich breit, in gleicher Gangart und Körperhaltung, im
+Gehrock mit Ordensband, mit der aus dem ersten Bild bekannten
+Haar- und Barttracht – vier Kopien des Präsidenten.
+professor: Vierter! Sie humpeln! Haben Sie das bei mir
+gelernt?
+vierter: Es sind die Hühneraugen, Herr Professor.
+fünfter: Lass dir von einem der Mädels ein Seifenbad machen.
+vierter: Eigentlich hatte ich was andres vor. (Beide feixen.)
+professor zum Sechsten: Und unser Freund, der sich selber zum Witwer gemacht hat! Wieder auf Freiersfüßen? Ohne Hühneraugen? Falls Sie Erinnerungen auffrischen wollen – Zimmer sechs ist wieder belegt. Aber,
+wenn ich bitten darf, Vorsicht beim Streicheln der Halsgegend!
+sechster drängt sich schweigend an den Siebenten.
+siebenter: Sie wissen, dass er jetzt nicht an Weiber denkt.
+Ich hab ihn in den Park geschleppt. Er hat keinen Willen
+mehr.
+professor: Ein höchst traitabler Zustand.
+fünfter: Dürfen wir uns verabschieden?
+vierter: Der Schlaf vor Mitternacht ist der gesündeste.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+38 39
+professor: Wie das liebe Vieh. Nein, schlimmer. Fort! Und
+kommt pünktlich zum Unterricht!
+vierter und fünfter in Präsidentenhaltung in den Pavillon
+ab.
+professor schaut hinterdrein: Animal ridens. Der Mensch,
+das lachende Tier. (Zum Siebenten.) Wie weit sind Sie mit
+der Rede unseres hochverehrten Präsidenten zur Eröffnung der Exportmesse?
+siebenter: Das Statistische Amt hat unseren zweiten Brief
+noch nicht beantwortet.
+professor: Unseren zweiten?
+siebenter: Die Außenhandelsbilanz hätte sich für die
+Märchenstunde in unserem Rundfunk geeignet. Nicht
+für Fachleute aus anderen Ländern. Ich habe, selbstverständlich in Ihrem Namen, um glaubwürdigere Unterlagen gebeten.
+professor: Übertreiben Sie Ihre Unentbehrlichkeit nicht,
+Nummer sieben! (Geht ab.)
+siebenter: Er droht mir zu oft. Sogar er macht Fehler. (Nötigt den anderen auf einen der Stühle.) Bist du imstande, mir
+aufmerksam zuzuhören? Ich ließe dir gern Zeit. Aber
+wir haben keine.
+sechster: Warum?
+siebenter: Wir haben die Geburtstagsrede des Präsidenten
+am Radio gehört. Die Sätze nach dem Attentat standen
+nicht im Manuskript. – Die Amnestie war eine politische Dummheit. Man kann auch an Kugeln sterben, die
+nicht treffen. Unser braver Schuhmacher dürfte somit
+seine halbjährige Regierungszeit beendet haben. Heute,
+spätestens morgen, wird das Triumvirat auftauchen und
+den Nachfolger bestimmen.
+sechster: Dich!
+siebenter: Nein. Der Professor wird ihnen abraten. Er
+misstraut mir, und er braucht mich. Vermutlich werden
+sie dich mitnehmen. Du bist, wie er es nannte, in einem
+höchst traitablen Zustande.
+sechster grübelnd: Du glaubst, sie haben meine Frau absichtlich hierhergeschleppt? Damit ich sie umbrächte?
+siebenter: Sie wussten, dass sie dich ruiniert hatte. Dass
+du dein Vorleben ihretwegen ausgelöscht hattest. Dass
+du, trotzdem, dreimal ihretwegen ausbrechen wolltest.
+Du warst zu aufsässig.
+sechster: Liebhaber und Geld gab’s doch draußen genug!
+Was wollte sie hier? Und wie lockte er sie her? Ich kann
+sie nicht mehr fragen. Es ging so rasch. Erst erkannte
+sie mich nicht. Wegen des Bartes. Und als sie sich wie
+ein Luder anbot, schlug ich zu. Und schrie, wer ich sei.
+So ein Frauenhals ist zerbrechlich wie ein Weinglas. Sie
+hielt ganz still. Es war ihr recht.
+siebenter: Sie war Morphinistin. Das Rauschgiftdezernat
+wird sie ihm zugespielt haben. Und als sie erst im Käfi g
+saß, brauchte er nur noch zu warten. Auf ein paar Tage
+kam es ihm nicht an.
+sechster: Eine nette, kleine Tragödie.
+siebenter: Das Zeitalter der Tragödien ist vorbei. Es gibt
+nur noch Unglücksfälle. Wie an Straßenkreuzungen.
+sechster: Ich werde ihm den Unglücksfall heimzahlen.
+siebenter: Eines Tages. Vielleicht. Zur Sache. (Holt die
+Hälfte einer alten Münze heraus.) Falls du an die »Regierung« kommst, gib dem Sohn des Präsidenten die Hälfte
+der alten römischen Münze. Man wird euch bald bekannt machen. Schließlich bist du ja sein »Vater«.
+Durchschuß verringert Durchschuß verringert
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+40 41
+sechster betrachtet die Münze.
+siebenter: Gib ihm die halbe Münze, während ihr euch
+die Hand reicht. Niemand darf es merken. Tue im Übrigen, stets und aufs Haar genau, was die drei von dir
+verlangen!
+sechster: Wenn sie nun, heute oder morgen, nicht mich
+holen, sondern den Vierten oder Fünften oder einen anderen, gibst du dann die halbe Münze ihm?
+siebenter: Ich muss warten, bis du an die Reihe kommst.
+Du bist zuverlässig.
+sechster: Wieso ist der Sohn des Präsidenten noch am
+Leben?
+siebenter: Man braucht seine Mutter und ihn als Beweise
+für die Echtheit des Präsidenten. Die beiden sind dessen
+Legitimation. Außerdem hat er in fünf Ländern, versiegelt und in geheimen Tresors, Aufzeichnungen deponiert, die nach seinem Tode veröffentlicht würden.
+Jedenfalls glauben das die drei. Sie sind um seine Gesundheit sehr besorgt.
+sechster: Schade, dass er nicht stirbt.
+siebenter: Ein Glück, dass er lebt.
+sechster: Was hast du für Pläne?
+siebenter: Du darfst sie nicht wissen. Aber du sollst dabei
+helfen.
+sechster: Und warum soll ich ihm die halbe Münze geben?
+siebenter: Er hat die andere Hälfte.
+Vorhang
+Das vierte Bild
+Arbeitszimmer des Professors. Bücher, Akten, Telefone, elektrisches
+Schaltbrett, vergitterte Fenster. Anwesend sind: Professor, Premier,
+Kriegsminister und Leibarzt.
+professor telefoniert: Ich will, bis auf Widerruf, nicht gestört werden. (Legt auf. Händereibend.) Ich freue mich,
+dass Sie mir wieder einmal die Ehre Ihres Besuches zuteilwerden lassen. Man sieht einander zu selten. Das legendäre Panzerauto, das zwischen der Hauptstadt und
+Schloss Belvedere hin- und herrast, ist ein kümmerlicher Kontakt. Ein leeres Auto, worin angeblich ein Präsident sitzt!
+kriegsminister: Wir sind ziemlich beschäftigt.
+premier am Fenster: Herrliche Baumgruppen. Frische Luft.
+Abendfrieden zu jeder Tageszeit. Sie sind zu beneiden.
+professor: Ich habe Sie erwartet. Unser braver Schuhmacher ist also gestorben.
+premier: An den Folgen einer leichtsinnigen AmnestieErklärung.
+leibarzt: Die ärztliche Kunst versagte.
+professor: Damit muss man immer rechnen.
+kriegsminister blickt auf die Armbanduhr.
+professor: Sie können, wenn es Ihre kostbare Zeit zulässt,
+dem Unterricht beiwohnen.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+42
+kriegsminister: Wir können? Wir werden!
+premier zum Professor: Sie haben sich nur versprochen.
+kriegsminister: Sie können! Ums Haar hätte er gesagt:
+Sie dürfen!
+professor: Vorsicht! (Zeigt auf den Zuschauerraum.) Man
+hört uns zu.
+die drei anderen mustern die Zuschauer. Überrascht, aber
+kaltblütig.
+kriegsminister: Die Leute sehen aus, als seien sie lange
+nicht eingesperrt gewesen. Vollgefressen und unverschämt.
+premier taxiert: Zehn Lastwagen genügten.
+kriegsminister: Ein paar Baracken. Elektrisch geladener
+Stacheldraht. Eine Latrine. Ein paar Scheinwerfer. Ein
+paar Maschinengewehre.
+premier: Staatlich gelenkte Sterblichkeit.
+leibarzt: Die Herrschaften wissen noch nicht, wie fi del es
+sich ohne Rückgrat lebt.
+kriegsminister: Pack! (Zum Professor.) Aber es wird Ihnen
+nicht gelingen, uns mit alten Theatertricks abzulenken.
+So leicht zaubern Sie uns die Wirklichkeit nicht aus dem
+Zylinder!
+die vier wenden sich wieder vom Zuschauerraum ab, als existiere
+er nicht mehr.
+premier: Der Kriegsminister nahm an Ihrer Formulierung
+Anstoß.
+kriegsminister: »Sie können, wenn es Ihre kostbare Zeit
+zulässt!« (Haut auf den Rollstuhl.) Ironie vertrag ich nicht,
+verstanden?
+professor zum Leibarzt: Sie sollten unserem Kasernen-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+44 45
+hofcholeriker eine Beruhigungsspritze geben. Aber,
+bitte, keine zu starke Dosis. Kriegsminister möchte ich
+nicht auch noch züchten. (Zum Kriegsminister.) Kommandieren Sie, wen Sie wollen. Mich nicht. Diese Schule
+war mein Gedanke. Ohne sie könnten Sie jetzt in Ihrer
+hübschen Uniform hinterm Schalter Briefmarken verkaufen. Oder in irgendeinem abgelegenen Dschungel
+wilden Völkerstämmen den Gebrauch des Zündnadelgewehrs beibringen. Dass Sie stattdessen einer der
+modernsten Armeen befehlen, dass Ihnen die Waffenlieferanten Blankoschecks, für jeden Betrag und in jeder
+Valuta, zustecken und dass Sie harmlose Senatorentöchter in die Geheimnisse der Liebe einweihen können,
+»wenn es Ihre kostbare Zeit erlaubt«, verdanken Sie mir!
+Erinnern Sie sich gelegentlich daran.
+premier: Wir haben miteinander auszukommen. Der
+Staat hat Platz für vier Männer. Zwist wäre Selbstmord.
+leibarzt: Im Quartett.
+kriegsminister: Gut. Erledigt. – Ist das kleine Luder
+schon eingetroffen?
+professor: Vor einer Stunde.
+kriegsminister blickt auf die Armbanduhr: Ich werde mich
+mit ihr ein wenig unterhalten. Nur so lange, bis sie mich
+auf den Knien bittet, hierbleiben zu dürfen. Sie weint allerliebst.
+professor: Ihr Besuch im Pavillon widerspräche der Hausordnung.
+kriegsminister: Schade, Herr Lehrer.
+professor: Sie brauchen einen neuen Präsidenten, Exzellenz. Das ist im Augenblick wichtiger. (Nimmt einen Stoß
+großformatiger Fotografi en vom Schreibtisch.) Zunächst ein
+paar Worte zum Thema Ähnlichkeit. Links sehen Sie
+den echten Präsidenten. Rechts die erste Fälschung.
+leibarzt: Den Kriminalinspektor, durch den er sich
+manchmal vertreten ließ.
+professor: Ganz recht.
+kriegsminister: Hätte der am Tag des Attentats keine
+Gallenkolik gekriegt, lebte der echte womöglich heute
+noch.
+leibarzt: Ein Glück, dass es Kriminalinspektoren mit
+Gallensteinen gibt.
+premier: Die Ähnlichkeit ist frappierend.
+professor: Ich lege den echten Präsidenten beiseite und
+konfrontiere den Kriminalinspektor mit dem Falsifi kat
+Nummer zwei.
+premier: Dem ersten Abiturienten Ihrer Anstalt.
+leibarzt: Dem Damenfriseur, der in einem fort den Kopf
+unserer verehrten Präsidentin bearbeitet. (Summt.) »Figaro, Figaro, Figaro!«
+professor: Er hing sehr an seinem Beruf. Und starb eines
+natürlichen Todes.
+kriegsminister: Was es alles gibt!
+premier: Die Ähnlichkeit ist frappierend.
+professor: Ich lege den Kriminalinspektor beiseite und
+zeige Ihnen neben dem Friseur den gewerkschaftlich
+organisierten Schuhmacher, der an seiner AmnestieErklärung erstickte.
+premier: Die Ähnlichkeit …
+leibarzt: … ist frappierend.
+professor: Was lässt sich daraus schließen?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+46 47
+kriegsminister: Sehr einfach. Dass alle vier einander zum
+Verwechseln ähnlich sahen.
+professor: Falsch! (Hantiert.) Ich halte, beispielsweise, das
+Original neben den Schuster. Wie steht’s jetzt mit der
+Ähnlichkeit?
+leibarzt: Man sieht Unterschiede. Zweierlei Kinnladen.
+Auch die Schläfenpartie.
+premier: Tatsächlich.
+kriegsminister: Kartenkunststückchen.
+professor: Ergo?
+premier: Die Ähnlichkeit zwischen jedem Vorgänger und
+seinem Nachfolger überzeugt eher als die zwischen weiter auseinanderliegenden Fällen.
+kriegsminister: Das klingt wie ein geometrischer Lehrsatz.
+professor: Der Premier hat nicht unrecht. Doch ich wollte
+Ihnen etwas anderes demonstrieren. Eine noch fundamentalere Beobachtung. Deshalb musste ich manipulieren. Sie haben soeben den echten Präsidenten für den
+Friseur gehalten. Den Friseur für den Schuhmacher. Den
+Schuhmacher für den Kriminalinspektor. Und den Kriminalinspektor für den echten Präsidenten. Der eben
+formulierte, stichhaltig scheinende Lehrsatz über die
+Ähnlichkeit erleidet eine erstaunliche Einbuße in der
+Dimension der Zeit.
+leibarzt: Großartig! Wenn also der echte Präsident noch
+lebte, sich bei Ihnen versteckt hielte und Sie ihn uns
+nachher vorführten, wäre es möglich, dass wir ihn als
+eine schlechte Imitation seiner selbst abtäten?
+professor: Durchaus.
+leibarzt schlägt sich lachend auf den Schenkel.
+kriegsminister: Endlich weiß ich, wozu ich meine Haxen
+verloren habe. Damit ich beschwören kann, dass die alte
+und echte Kanaille wirklich mausetot ist.
+professor: Wir wissen es noch besser. Denn wir haben
+ihn ja in aller Stille »beerdigt«. Ihr Verdienst liegt auf einem anderen, quasi physikalischen Gebiet. Wenn Sie,
+Exzellenz, infolge Ihrer Verwundung nicht auf seinen
+Kopf gefallen wären, hätte die berittene Polizei merken
+müssen, dass er mausetot war. Und nicht nur schwer
+verletzt, wie wir der Welt mit gutem Erfolg einreden
+konnten.
+kriegsminister: Ich danke für die liebenswürdige Belehrung.
+leibarzt: Es bleibt Ihr historisches Verdienst, auf seinen,
+statt auf Ihren Kopf gefallen zu sein. (Lacht.) Es gibt keine
+Gerechtigkeit.
+professor: Der vorlaute Schuster hätte uns Kopf und
+Kragen kosten können. Der Nuntius ist kein Dummkopf. Meine Methoden, Menschen in Werkzeuge umzubauen, sind noch immer verbesserungsbedürftig. (Zum
+Leibarzt.) Medizin und Chemie müssten der Pädagogik
+energischer beispringen. Der Mensch als dressiertes
+Meerschweinchen genügt den Ansprüchen nicht mehr.
+Wozu haben wir staatliche Forschungsinstitute? Wir
+müssen ihn weiterentwickeln. Zur ferngesteuerten Maschine, die exakt funktioniert und paarweise neue Maschinen liefert.
+leibarzt: Curae posteriores, Teuerster! Spendieren Sie
+uns lieber einen brauchbaren Herrscher. Es eilt.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+48 49
+premier: Er muss die Exportmesse eröffnen. Unser Devisenfonds sieht erbärmlich aus.
+kriegsminister: Die Auslandsagenten fressen uns die
+Haare vom Kopf.
+professor: Die Bilanz der Exportbank muss sowieso plausibler aufgemacht werden. Sonst halten sich die Fachleute bei der Eröffnungsrede den Bauch. Ich habe das
+Nötige veranlasst.
+leibarzt: Die Erbfolge! Die Hauptsache!
+professor: In die engere Wahl kommen zwei. Der eine,
+Nummer sieben, ist sehr aufgeweckt. Er hilft mir seit
+einiger Zeit bei diesem und jenem. Die heutige Geburtstagsrede stammt von ihm.
+kriegsminister: Bloß keinen Gescheiten!
+professor: Ich gäbe ihn auch nicht gerne her.
+premier: Unter Ihren Augen ist er nützlich und unschädlich. Der andere?
+professor: Nummer sechs. Er war schwierig. Aus familiären Gründen. Nach der – Beseitigung der »familiären
+Gründe« scheint er mir der geeignetste Kandidat zu sein.
+Er ist seitdem lenkbar wie ein Damenfahrrad.
+kriegsminister: Intelligenz?
+professor: Nicht überm Durchschnitt. Außerdem: Sein
+Herz ist verödet. So etwas lähmt den Verstand. Überdies
+hat er sich im Imitationskursus gut bewährt. Besonders in der Phonetik. Auch seine Ähnlichkeit mit dem
+Schuhmacher …
+telefon klingelt.
+professor nimmt den Hörer: Ich wollte nicht gestört werden. – So. – Man soll sie bis auf weiteres nicht allein
+lassen. Sentimentale Schachfi guren sind denkbar unbequem. Sie wird sich an den neuen Beruf gewöhnen. Zeit
+bringt Rosen. (Legt auf und erhebt sich.) Sie werden sich
+über Nummer sechs Ihre eigne Meinung bilden wollen.
+kriegsminister aufs Telefon zeigend: Was ist passiert?
+professor: Ihre kleine Senatorentochter hat versucht, sich
+umzubringen.
+kriegsminister: Das könnte ihr so passen! (Schwenkt den
+Rollstuhl türwärts.) So einfach ist das Leben nicht!
+leibarzt: Was haben Sie gegen den Selbstmord?
+kriegsminister: Selbstmord ist Sabotage.
+premier: Mutwillige Zerstörung von Volkseigentum.
+kriegsminister: Stellen Sie sich vor, jeder Verzweifelte
+ginge hin und hängte sich auf!
+leibarzt: Schrecklicher Gedanke! Wen sollten Sie regieren?
+professor: Ein Glück, dass auch die Kirche gegen den
+Selbstmord ist.
+premier: Und dass wir das Konkordat unterschrieben haben.
+leibarzt: Die Kirche hat populärere Argumente als wir.
+Vorhang
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+51
+Das fünfte Bild
+Ein schulähnlicher Saal. Tische, Stühle, Messgeräte, eine Waage,
+mehrere große, dreiteilige Spiegel, wie in Schneiderateliers. Radio- und Grammophonapparate, eine elektrische Schalttafel. Ein
+thronartiger Sessel auf einem Podest, genau wie im ersten Bild. An
+den Wänden Bilder und Großfotos des Präsidenten in charakteristischen Posen.
+Der Saal ist mit Pseudo-Präsidenten angefüllt, je mehr, desto
+besser. Alle im Gehrock mit Ordensband. Sitzend, stehend, einzeln,
+in Gruppen. Die bewegte Szene erinnert – mindestens bis zum Beginn des Dialogs – an eine kurze Pantomime. Der Achte und der
+Neunte üben vor den dreiteiligen Spiegeln Gesten und Posen. Der
+Zehnte und der Elfte korrigieren die Bewegungen der beiden. Der
+Zwölfte übt, wiederholt und sehr ernsthaft, das gravitätische und
+selbstgewisse Heruntersteigen vom Podest. Der Dreizehnte und der
+Vierzehnte helfen einander, mit Kamm und Bartbürstchen, bei der
+Bart- und Haarkorrektur.
+vierter steht auf der Waage.
+sechster das Gewicht ablesend: Vierundsiebzig Kilo zweihundert Gramm.
+siebenter trägt in ein Journal ein: Vierundsiebzig Kilo zweihundert Gramm. Du hast fast ein halbes Pfund abgenommen.
+vierter: Kein Wunder. Vor lauter Schreck.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+52
+fünfter: Nun erzähl schon! Lass dir nicht jedes Wort abkaufen!
+vierter: »Nein!«, jammert sie, »bitte nicht! Bitte, bitte nicht!«
+Bildhübsch sah sie dabei aus. Wie ‚n Reh im Hemd.
+Schlanke Figur, aber alles da und an Ort und Stelle.
+siebenter notierend: Drei Tage Zusatzkost B – der Nächste!
+vierter klettert von der Waage herunter.
+fünfter hinaufsteigend: Und dann?
+vierter: »Mit dir hat man uns ja hübsch angeschmiert«, sag
+ich und: »Komm her, du kleines Luder!« Sagt sie darauf:
+»Ich spring aus dem Fenster!« Und ich geb zur Antwort:
+»Wozu? Du wohnst doch im Parterre!«
+fünfter lacht.
+sechster meldet: Vierundsiebzig Kilo achthundertdreißig
+Gramm.
+siebenter notierend: Vierundsiebzig Kilo achthundertdreißig Gramm. Zugenommen.
+fünfter: Weiter!
+vierter: Ehrlich gesagt – wenn ein Mädchen nicht will,
+verlier ich die Laune. Ich troll mich also. Zu Pauline.
+fünfter: Die ist ja nie dagegen.
+vierter: Mittendrin sagt sie: »Mensch, Zimmer sechs ist
+aber mächtig still.«
+siebenter: Eine Woche Morgengymnastik, Kurs A. (Notiert.)
+fünfter lacht: Allein? (Steigt von der Waage.)
+siebenter: Nun du, Sechster!
+sechster steigt auf die Waage.
+siebenter tariert.
+vierter: Na, ich erzähl Pauline die Geschichte, und da ist 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+54
+sie auch schon aus dem Bett und drüben. Ich hinterdrein. Die Kleine baumelte am Fensterriegel. Mit hochgezogenen Beinen. Wie im Turnverein.
+siebenter notierend, zum Sechsten: Traubenzucker. Viermal
+täglich.
+vierter: Wir schnitten sie los. Warm war sie noch. Ich
+denke, sie kommt übern Berg.
+sechster steigt von der Waage.
+siebenter klettert samt dem Journal hinauf.
+sechster tariert.
+achter: Vergiss nicht, dein Notizbüchel abzuziehen!
+sechster: Vierundsiebzig Kilo hundertfünfzig Gramm.
+siebenter notierend: Vierundsiebzig Kilo hundertfünfzig
+Gramm.
+achter spöttisch: Zwölfmal täglich ‚nen Zentner Schlagsahne.
+siebenter steigt von der Waage: Los, Achter!
+achter steigt hinauf.
+fünfter: Sie kommt übern Berg! Schön und gut. Aber was
+weiter? Sind wir von der Bahnhofsmission?
+vierter: Das Zimmer ist verhext. Die Vorige wird abgekragelt. Die Neue hängt sich auf.
+fünfter: Die schwebende Jungfrau! (Lacht.)
+sechster: Vierundsiebzig Kilo fünfhundert Gramm.
+siebenter notiert: Vierundsiebzig Kilo fünfhundert
+Gramm. Normalgewicht.
+achter klettert von der Waage.
+Die Saaltür öffnet sich. Auftritt Kriegsminister, Premier, Leibarzt
+und Professor. Die Saaltür schließt sich.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+56 57
+zwölfter: Achtung!
+zöglinge stellen ihre verschiedenen Tätigkeiten ein. kriegsminister: Immer wieder zum Schreien, dieser Anblick!
+professor: Meine Meerschweinchen. (Zum Siebenten.) Außergewöhnliche Gewichtsveränderungen?
+siebenter: Unbedeutende Schwankungen. Diät, Gymnastik, Zusatzkost, das Übliche.
+professor zu den Zöglingen: Ich habe Ihnen eine Mitteilung zu machen, die Sie interessieren dürfte. Der Präsident ist heute, kurz nach seiner Rede, die wir gehört
+und auf Band genommen haben, verstorben. So erwächst uns die Aufgabe, einen neuen Mann ins Palais
+zu entsenden. (Zum Zwölften.) Ihre Schläfen werden
+zu grau. Nachfärben lassen! (Wieder zu allen.) »Blind gehorchen« heißt Ihr erstes Gebot. Nicht einäugig. Ohne
+zu zwinkern. Dass Ihr Kollege sein beschworenes Versprechen vorübergehend vergaß, konnte seiner Amtsund Lebensdauer, begreifl icherweise, nicht zuträglich
+sein.
+siebenter: Non scholae, sed morti discimus.
+kriegsminister: Ihr Neunmalkluger, was?
+professor: Ganz recht. Nummer sieben.
+premier: Von Beruf?
+siebenter: Lehrer.
+leibarzt: Warum sind Sie hier?
+professor: Missbehagen an der Kultur. Enttäuschung
+über den Lauf der Welt. Früher ging so etwas ins Kloster.
+siebenter: Die Menschheit hat auf sich verzichtet. Büchsenkonserve in der Konservenbüchse zu sein, das ist
+aller Traum. Das Blecherne Zeitalter ist angebrochen.
+kriegsminister: Amen.
+premier: Kämen Sie gern mit uns?
+siebenter: Wer sich in den Menschen verrechnet hat, spürt
+gelegentlich Lust, ihnen die Differenz heimzuzahlen.
+leibarzt: Aha. (Zum Professor.) Und der andere Kandidat?
+Das Damenrad?
+professor zeigt auf den Sechsten.
+premier: Was waren Sie vorher?
+professor: Sechster! Man spricht mit Ihnen.
+sechster: Architekt.
+kriegsminister: Warum sind Sie hier?
+sechster: Ein paar Unglücksfälle. Wie an Straßenkreuzungen. Tragödien sind nicht mehr Mode.
+leibarzt: Soso. – Professor, wie wär’s mit einer kleinen
+Dressurprüfung?
+professor: Einverstanden. Am besten die heutige Rede.
+Wir haben sie wochenlang exerziert. (Gibt dem Sechsten
+ein Manuskript.) Auf die Bühne, Exzellenz! Die anderen –
+setzen!
+zwölfter steigt gravitätisch vom Podest. Sechster steigt, schon
+ganz in der Rolle, hinauf, nimmt Platz, entfaltet das Manuskript und räuspert sich. Professor hantiert an Übertragungsgeräten. Alle außer ihm sitzen. Es wird sehr still.
+tonband mit der Stimme des ermordeten Schuhmachers: Ich
+bin bekanntlich kein Freund vieler Worte. Ich ziehe es
+vor, Taten sprechen zu lassen. Die Welt weiß das. Ich
+habe nicht die Absicht, meinen Jargon zu wechseln. Die
+Weltgeschichte wird es eines Tages wissen. Manches haben wir im Lauf der Jahre durch die knappe, international verständliche Sprache der Taten erreicht.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+58 59
+professor hat mit der Hand skandiert, schwingt nun die Arme
+wie ein besessener Dirigent: Sechster! (Stellt die Übertragung
+ab.)
+sechster in völlig gleichem Tonfall: Die Freunde achten uns.
+Die Feinde fürchten uns. Das ist in unserm verfehlten
+Jahrhundert keine Selbstverständlichkeit mehr. Nicht in
+den Staaten. Nicht zwischen den Staaten. Wir haben unsere Grenzen ausgedehnt. Nicht etwa, um unsere Macht
+zu beweisen. Wirkliche Macht hält keine Manöver ab.
+Sondern um abgesprengte Teile unseres Volkes heimzuholen. Im Land herrschen Ruhe und Einmütigkeit.
+Es bedurfte keiner Überredung. Das Volk wurde überzeugt.
+professor hat skandiert, winkt ab, stellt das Tonband an:
+Wechsel!
+tonband: Noch gibt es vereinzelte Widersacher. Neinsager aus Profession und Verräter in fremdem Sold und
+Auftrag. Aber sie hocken im Mauseloch der Angst. Ein
+Schritt, ein Satz genügt, und sie sitzen in der Falle. Mauseloch oder Mausefalle, die Leute haben die Wahl. Diese
+und keine andere. Man lasse es sich gesagt sein.
+professor hat skandiert, dreht das Tonband ab, dirigiert:
+Sechster!
+sechster: Die Arbeit wurde erst halb getan. Ganze Arbeit ist nötig. Wer soll sie leisten? Wer kann sie leisten?
+Verantwortung ist unteilbar. Pfl ichtgefühl kennt, außer dem letzten Stündchen, keine Termine. Gegen das
+Amt und die Ehre, zu denen man mich auf Lebenszeit
+verurteilt hat, gibt es, vor Volk und Geschichte, keine
+Berufungsinstanz. Ich danke also für die schwere Last,
+die man mir hier und heute aufbürdet. Ich nehme Amt,
+Ehre und Bürde an!
+professor winkt ab, stellt das Tonband an.
+sprechchöre: Hoch! Hoch! Hoch! Präsident – hab Dank!
+Präsident – hab Dank!
+Von fern Kanonensalut.
+professor: Manuskript weg!
+sechster steckt das Manuskript in die Brusttasche.
+sprechchöre: Wir wollen – den Präsidenten – sehn!
+Wir wollen – den Präsidenten – sehn! Präsidenten –
+sehn! … denten – sehn!
+professor dirigierend: Heruntersteigen! Langsam! Würdig!
+Noch würdiger! Sie sind – der Diktator!
+sechster steigt währenddem vom Podest.
+professor: Schluss! Aus! Danke! (Trocknet sich die Stirn,
+sieht die drei Besucher triumphierend an.)
+sechster schreitet gravitätisch auf den Siebenten zu.
+tonband das weiterläuft, überträgt den peitschenden Schuss.
+sechster zuckt zusammen.
+tonband überträgt Tumult, Gewehrsalven und den Todesschrei
+des Attentäters.
+professor springt wütend zum Tonband, stellt es ab.
+kriegsminister lacht aus vollem Hals.
+leibarzt: Jetzt fehlt nur noch, dass Ihr Papagei an der rechten Backe blutet. Dann wäre die Illusion vollkommen.
+premier: Ärgern Sie sich nicht, Professor. Der Mann hat
+seine Sache ausgezeichnet gemacht. (Zu Kriegsminister
+und Leibarzt.) Wir sollten es mit ihm versuchen.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+60 61
+kriegsminister: Glänzender Drill! Davon versteh ich
+was. Meinen Respekt, Herr Lehrer! Sie hätten das Zeug
+zum Feldwebel! (Zum Sechsten.) Packen Sie Ihren Koffer!
+sechster und siebenter wechseln einen kurzen Blick.
+professor: Machen Sie mir keine Schande, Sechster. Sie
+haben sich unter meiner Obhut sehr zu Ihrem Vorteil
+entwickelt …
+sechster: Zu Ihrem Vorteil.
+professor: Die Monatsbeträge, die Ihre Frau Mutter aus
+Kapstadt erhält, werden, nun Sie Ihr Amt antreten, verdoppelt werden.
+kriegsminister: Aus Kapstadt?
+siebenter: Er arbeitet dort in einem großen Baubüro. Vorwiegend allerdings in der Johannesburger Filiale.
+leibarzt: Schöne Gegend, Südafrika.
+sechster: 0 ja. Meine Mutter spart fl eißig. Im nächsten
+Jahr will sie mich besuchen.
+professor: Raten Sie ihr auch weiterhin davon ab.
+sechster: Selbstverständlich, Herr Professor. (Gibt dem
+Siebenten die Hand.)
+professor: Und vergessen Sie auch als Staatspräsident
+nicht, dass Sie zu gehorchen haben. Im Interesse des
+Staatswohls. Und Ihrer Mutter zuliebe. Frauen gibt es
+genug. Aber – man hat nur eine Mutter.
+premier etwas ungeduldig: Das dürfte sogar Architekten bekannt sein.
+sechster geht zur Saaltür.
+professor: Und vergessen Sie mich nicht!
+sechster an der Tür: Nein, Herr Professor. (Geht ab.)
+Vorhang
+Das sechste Bild
+Wochen später. Teil eines luxuriösen Hotelappartements. Offene
+Verbindungstür. Doppeltür zum Flur. Die Präsidentin nimmt Uniformstücke aus einem Schrank und legt sie in einen Koffer. Der
+Major, männlich hübsch, elegant, noch jung, sitzt auf einer Couch
+und raucht. An der Wand, in goldenem Rahmen, der Präsident
+(Gehrock, Ordensband) als Ölporträt.
+präsidentin: Ich möchte nur wissen, was uns Frauen an
+den Uniformen so gefällt.
+major: Ehrlich gesagt, ich möcht’s nicht wissen. Eins weiß
+ich immerhin: Wenn ihr nicht dafür schwärmtet, wäre
+die Weltgeschichte anders verlaufen. Gemütlicher. Verwandtschaftlicher.
+präsidentin: Und du wärst Ingenieur. Oder Etagenkellner.
+major: Vor jeder Kaserne sollte man euch ein Denkmal
+setzen. Und auf dem Sockel müsste stehen: »Dem Geschlecht, dem wir Leben und Tod verdanken.«
+präsidentin: Und du? (Schließt den Koffer.) Bist du Soldat
+geworden, nur damit du uns besser gefällst? (Tritt zu ihm.)
+major legt die Hände um ihre Hüften: Soll ich ja sagen?
+präsidentin: Es waren schöne Wochen. Du hast mir gutgetan. Und nun müssen wir uns trennen. (Fährt ihm übers
+Haar.) War’s schlimm, so eine alte Frau zu streicheln?
+Noch dazu auf höheren Befehl?
+Durchschuß verringert
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+62
+major zieht sie neben sich, küsst sie: Soldaten müssen gehorchen. Noch dazu blind. Ich war nur gehorsam. Blind war
+ich nicht.
+präsidentin: So eine alte Frau.
+major: So alt? Erzähl mir nichts von jungen Mädchen. Wer
+von uns beiden, glaubst du, kennt sie besser?
+präsidentin: Es ist lange her, aber ich war selber eines.
+major: Nie. Das stand nur im Kalender. Es gibt angeborene
+Erfahrungen. Du wusstest nichts und kanntest alles.
+Dergleichen wurde früher verbrannt.
+präsidentin: Ich bin eine Hexe?
+major: Nein. Deine Erfahrungen haben dich eingeholt.
+Aber du warst eine Hexe.
+präsidentin: Homer behauptet, Circe hätte die Männer
+in Schweine verwandelt. Dieser Märchenerzähler! Was
+gab es da zu verwandeln? Möchtest du mir das verraten,
+mein Kleiner?
+major: Immerhin – Odysseus blieb, wer er war.
+präsidentin: Ja. Ein rechnendes Schwein. (Zeigt auf das
+Bild an der Wand.) Genau wie er. Als wir heirateten, heiratete ich ihn. Zweiter Direktor der Außenhandelsbank
+war er damals. Mit der Konstitution einer Dampfwalze.
+major: Und dann?
+präsidentin: Er bekam Angst vor mir. Sein Körper wurde
+geizig. Ich ging auf Reisen.
+major: Auch Samson hätte Dalila auf Reisen schicken sollen. Aber er war kein Bankdirektor. So schnitt sie ihm
+bei Nacht die Haare.
+präsidentin: Während ich in Paris Kleider kaufte, wurde
+er Wirtschaftsminister. Noch immer hielten sie ihn für 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+64 65
+einen Zahlenakrobaten und für sonst nichts. Für eine
+Spezialität. Er verbarg sich in seinen Statistiken und Bilanzen wie ein Panzer im Kornfeld.
+major: Dass er, erst einmal an der Macht, wurde, was er
+geworden ist, versteh ich. Doch warum hob man ihn in
+den Sattel? Einen fanatischen Buchhalter für harmlos zu
+halten, ist kindisch. Menschen sind für ihn Ziffern hinterm Komma.
+präsidentin: Man brauchte Auslandskredite. Es ging
+nicht ohne ihn. Und außerdem – er fi nanzierte den
+Staatsstreich! (Böse lachend.) Übrigens: mit Staatsgeldern!
+major: Er bestach die Mörder aus der Brieftasche des Opfers? Das wusste ich nicht!
+präsidentin: Vergiss es wieder. Einige, die es wussten und
+nicht vergessen konnten, starben in den besten Jahren.
+Gedächtnis ist gesundheitsschädlich.
+major: Dann lebst du nur noch aus Versehen.
+präsidentin: Versehen gibt es nicht. Mein Leben ist ihnen
+sehr viel wert. Sie hüten mich wie einen Talisman.
+major: Wer sind »sie«?
+präsidentin: Leute, mein Kleiner. Ein paar Leute.
+major: Leute! (Kopfbewegung zum Gemälde des Präsidenten.)
+Leute! Dich braucht er nicht. Und ein paar Leute braucht
+er schon gar nicht.
+präsidentin: Er! (Lacht ärgerlich.) Ich könnte dir eine Geschichte erzählen! (Fährt ihm übers Haar.) Lieber nicht.
+Lieber nicht.
+major: Erzähl!
+präsidentin: Nein!
+telefon klingelt.
+major hebt ab: Was gibt’s? (Legt die Hand über die Sprechmuschel.) Der Regierungswagen ist da. (Ins Telefon.) Die
+gnädige Frau lässt bitten. (Hängt ein.) Der Inspektor bemüht sich persönlich.
+präsidentin springt auf: Sie sagen: »Lächle!« Man lächelt.
+Sie sagen: »Geh!« Man geht. Sie sagen: »Schlaf mit ihm!«
+(Zeigt auf den Major.) Man schläft mit ihm. Sie sagen:
+»Verachte dich!« Und man tut’s.
+major: Solange wir gehorchen, haben sie recht.
+präsidentin: Man verachtet sich und sie.
+major: Wozu Respekt? Angst genügt.
+präsidentin: Ohnmächtig, bei vollem Bewusstsein!
+Die Doppeltür zum Flur öffnet sich. Der Inspektor und der Sohn
+der Präsidentin treten, in Reisekleidung, ins Zimmer. Sie verbeugen sich. Der Major ist aufgestanden.
+inspektor: Sind Sie reisefertig, gnädige Frau?
+präsidentin: Nein. (Zum Sohn.) Ich bin erstaunt, dich zu
+sehen.
+sohn: Der Präsident fand, es wirke stilvoller, wenn du mit
+deinem Sohn zurückführest, statt (zum Major) mit Ihnen.
+präsidentin: Man könnte meinen Gatten um sein Zartgefühl beneiden.
+major zum Sohn: Ihr Herr Vater hat wie immer recht.
+präsidentin zum Major: Ich verabschiede mich noch von
+Ihnen. (Geht ins Nebenzimmer, schlägt die Tür zu.)
+sohn zum Inspektor: Ich habe mit dem Major zu reden.
+inspektor zögert.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+66 67
+major: Es ist für mich eine große Ehre, nach der Gattin des
+Präsidenten nun auch seinen Sohn kennenzulernen.
+sohn: Halten Sie Ihren Zynismus für sehr angebracht?
+inspektor zum Sohn: Keinen Streit, meine Herren. Privatgefühle sind Vorurteile. Ich erwarte Sie in der Halle.
+(Ab.)
+major schließt sorgfältig die Doppeltür, streckt dem Sohn ernst
+die Hand entgegen.
+sohn mit herzlichem Händedruck: Vorsicht! Wände haben
+Ohren. (Setzt sich.) Türen haben Augen.
+major setzt sich ihm dicht gegenüber.
+sohn gedämpft: Am Tage, bevor meine Mutter mit dir hierherfuhr, starb der Schuhmacher.
+major: Aha. – Und vor einer Minute hätte mir deine Mutter beinahe »eine Geschichte« erzählt. Vom Präsidenten,
+ihrem Mann.
+sohn schweigt bestürzt.
+major: Im letzten Augenblick hielt sie den Mund.
+sohn: Wird sie ihn das nächste Mal halten?
+major: Ich dachte, du kenntest sie besser.
+sohn noch leiser: Aber vielleicht gibt es kein nächstes Mal.
+Als ich, nach des Schuhmachers Tod, dem neuen Präsidenten und Papa vorgestellt wurde, drückte er mir eine
+halbe Münze in die Hand.
+major setzt sich bolzengerade.
+sohn: Er brachte Grüße aus Schloss Belvedere.
+major: Dass »ihm« das gelungen ist!
+sohn: Er heißt dort »der Siebente«.
+major: Der Siebente. Und die halbe Münze besagt, dass
+»er« bereit ist!
+sohn: Sind wir bereit?
+major: Der Kommandeur der Achten Panzerdivision wartet aufs Stichwort. Und nicht nur er. Der Hass kocht. Der
+Kessel ist am Zerreißen. So steht’s beim Heer, bei der
+Flotte und beim Fliegerkorps. Aber auch im Senat. An
+der Universität. In den Fabriken. Auch Brutalität braucht
+Methode. Wer die öffentliche Meinung unterdrückt, darf
+nie vergessen, dass die Unterdrückten mehr von ihr wissen als der Unterdrücker. Je rücksichtsloser er manipuliert, umso ahnungsloser wird er. Erzwingt er den Nullpunkt der Freiheit der anderen, so erreicht er gleichzeitig
+den Nullpunkt seines Wissens um deren Meinung.
+sohn: Politische Trigonometrie!
+major: Dir zuliebe poetischer formuliert: Er tappt im Dunkeln. Und zwar in einem Minenfeld, das er selbst gelegt
+hat.
+sohn: Wenn unser Streich trotzdem fehlschlägt?
+major: Je mehr sich die Macht zuspitzt, umso leichter lässt
+sie sich beseitigen. Man braucht die Spitze nur abzubrechen. Und man braucht nur die Spitze abzubrechen.
+sohn: Es klingt sehr einfach.
+major: Es ist sehr einfach, mein Lieber. – Man will das
+ganze Land haben? Rezept: Man muss die Hauptstadt
+erobern. Man will die Hauptstadt haben? Rezept: Man
+muss die Bahnhöfe, den Flugplatz, den Sender und die
+Hauptpost besetzen. Dazu genügt ein zuverlässiges Regiment!
+sohn: Morgen, am Nationalfeiertag, verliest der Präsident
+seine große Rede. Rückblick, Rechenschaftsbericht,
+Ausblick. Das Kabinett, die Generäle, die Admirale, die 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+68 69
+Diplomatie und der Polizeigouverneur sind versammelt. Der Senat annulliert sich.
+major: Glück gehört zum Kalkül. Wir zernieren das Palais.
+Der bunte Jahrmarkt sitzt in der Falle.
+sohn: Dann holen wir den Siebenten.
+major: Wir werden ihn früher brauchen. Er muss bei der
+Hand sein. Die Vergangenheit zu verhaften, genügt
+ein Regiment, und wir haben eine Division. Aber der
+Volkstribun muss mitmarschieren! Wozu besetzen wir
+das Rundfunkhaus? Damit er redet. Wozu nehmen wir
+die Regierung gefangen? Damit er sie verurteilt. Wozu
+schaffen wir freie Bahn? Damit er auf neue Ziele zeigen
+kann.
+sohn: Wie holen wir ihn aus dem Belvedere heraus? Der
+Professor ist kein Stümper.
+major: Stümper sind langweilige Gegner.
+sohn: Und wer holt ihn heraus?
+major: Er wird pünktlich vors Mikrophon treten.
+präsidentin kommt reisefertig ins Zimmer zurück.
+sohn und major stehen auf.
+präsidentin: Ihr könntet gleich alt sein.
+sohn: Söhne und Liebhaber, ein bewährtes Thema.
+major: Es ist ein Vergnügen, einem gebildeten Menschen
+zuzuhören.
+präsidentin zum Sohn: Du gehst voraus!
+sohn und major verbeugen sich förmlich voreinander.
+sohn geht durch die Flurtür ab.
+präsidentin: Er verachtet seine Mutter, weil sie eine Frau
+ist. (Streichelt den Major kurz.) Weil sie Erinnerungen
+sammelt.
+major: Wie man Bücher kauft und dabei denkt: Ich lese sie
+später.
+präsidentin: Im Winter. An den langen Abenden. – Ich
+habe mir die Jahreszeiten nicht ausgedacht!
+major: Nein, dir wäre nur der Sommer eingefallen.
+präsidentin lacht.
+major: Trotz allem, er wirkt sympathisch.
+präsidentin: Sympathisch! Das klingt wie ein Schimpfwort! Wenn jemand nicht stark ist, nicht böse, nicht
+wild, wenn er nichts ist, ist er sympathisch. – In seinen
+Adern rollt Limonade!
+major: Er verachtet dich, sagst du. Du hasst ihn.
+präsidentin: Die Natur hat mich beleidigt. So muss sich
+eine Stute vorkommen, die einen Maikäfer zur Welt
+bringt! – Mein Mann war eine Kanaille, weiß Gott! Aber
+er war ein Kerl!
+major: War?
+präsidentin: Bevor ihn sein Machthunger leerfraß.
+major: Es ist für einen Major der Kriegsakademie nicht uninteressant, eine derart anschauliche Meinung über unser verehrtes Staatsoberhaupt aus so berufenem Munde
+zu hören.
+präsidentin: Gib dir keine Mühe, mich zu erschrecken,
+mein Kleiner. Ich kenne dich.
+major: Der Instinkt der Frauen und die Landeswetterwarte
+irren sich fast nie.
+präsidentin: Wenn ein Major der Kriegsakademie nachts
+im Traume spricht, redet er die Wahrheit.
+major zuckt zusammen, dann: Nicht einmal das ist sicher.
+Hierzulande lügt man sogar im Schlaf.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+70 71
+präsidentin: Den Kriegsminister liebst du jedenfalls noch
+weniger als mich.
+major: Sogar unsere Träume können uns den Kopf kosten.
+präsidentin: Der Staat ist überall. Er liegt auch, als Dritter, mit uns im Bett.
+major: Wenn er mit uns müde würde – meinetwegen.
+präsidentin: Er liebt uns nicht. Das hält ihn wach. (Küsst
+ihn. Es klopft.)
+inspektor tritt ein: Es ist höchste Zeit, gnädige Frau. präsidentin zum Major: Sie waren ein vorbildlicher Reisemarschall!
+major: Reisemajor!
+präsidentin: Ich werde mich für Ihre Beförderung verwenden. Und (gibt ihm ihr Taschentuch) wisch meine Lippenschminke weg! (Mit dem Inspektor durch die Flurtür ab.)
+major tritt vor den Spiegel, wischt die Schminkfl ecken fort, wirft
+das Taschentuch achtlos in den Papierkorb und hebt den Telefonhörer hoch: Eine dringende Verbindung mit der Kommandantur in der Hauptstadt! Jawohl. Ich warte.
+Vorhang
+Das siebente Bild
+Einen Tag später. Die Parkszenerie wie im dritten Bild. Pauline mit
+Lockenwickeln und einer Handarbeit. Doris lackiert, im Grase sitzend, wieder ihre Zehennägel. Stella hockt, ungepfl egt, am Tisch,
+trinkt Likör, raucht und starrt vor sich hin.
+pauline: In der Zeitung stand, die Menschen würden neuerdings wieder frömmer. Mir geht es, glaub ich, selber
+so.
+doris: Es liegt daran, dass die Leute das Zutrauen zu den
+Sparkassen verloren haben.
+stella lacht stumpfsinnig vor sich hin.
+doris: Die Richter verurteilen die Schuldlosen. Die Forscher tüfteln am Weltuntergang. Die Ärzte morden im
+Auftrag. Seit die Bösen vorschreiben, was recht ist, plagt
+den, der gut sein möchte, das schlechte Gewissen.
+stella lacht wieder: »Denn sie wissen nicht, was sie tun.«
+doris: Das einzig Sichere ist die Unsicherheit. So versuchen’s viele mit dem Beten. Es ist unschädlich und beruhigt die Nerven.
+pauline: Der liebe Gott als Mutters Schürze.
+doris: Die einen reißen den andern, als wären’s Fliegen, die
+Beine aus. Und die Übrigen brechen vor Mitleid zusammen. Aber vorher verriegeln sie die Türen.
+stella: Prosit, lieber Gott! Sollst leben! (Lacht und trinkt.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+72 73
+pauline zu Doris: Das ist mir eine! Erst schneidet man sie
+vom Fensterkreuz, die kleine Gans. Und jetzt? Ein paar
+Wochen später säuft sie wie ein Loch und schnappt uns
+die Kerle weg. Nächstens nehm ich bei ihr Privatstunden.
+stella: Hättet ihr mich hängen lassen!
+doris zu Stella: Ich war drei Jahre im Lager. Vierzig Frauen
+in einer Zelle. Hunger, Krankheit, Prügel, Krätze, Dreck
+und Gestank. Ich schrubbte mich täglich, als wäre ich
+ein Fußboden. Sie rissen Zoten und krepierten. Merk dir
+eins: Wer nicht beten kann, soll sich wenigstens gründlich waschen!
+stella: Hättet ihr mich hängen lassen!
+pauline: Das nächste Mal schneid ich dich nicht ab. Das
+versprech ich dir.
+stella: Zum Aufhängen ist es sowieso zu spät. Ich will
+langsamer sterben. In Raten. (Lacht.) Man hat mehr davon.
+Der Gong ertönt.
+stella steht schwankend auf, nimmt Glas und Flasche: Die
+nächste Rate!
+pauline: Das kleine Luder kann’s wohl gar nicht erwarten.
+doris zu Pauline: Lass sie in Frieden!
+stella: Ja. Lasst mich in Frieden! (Geht auf den Pavillon zu,
+dreht sich noch einmal um.) Ein Kind krieg ich außerdem.
+(Ab.)
+pauline steht auf: Ein Kind mit einem Dutzend Väter! Pass
+auf, sie schnappt uns über!
+doris steht auf: Wer heutzutage die Nerven verliert, muss
+sich nicht sehr anstrengen, auch noch den Verstand zu
+verlieren. Es geht in einem.
+pauline im Gehen: Sie tut mir leid. Aber sie stört mich. Ein
+Puff ist ja schließlich kein Irrenhaus!
+pauline und doris gehen in den Pavillon ab.
+Die Bühne ist für kurze Zeit leer. Dann kommen der Vierte, der
+Fünfte, der Siebente, der Achte und der Neunte, im üblichen Gehrock, aus dem Park. Der Siebente setzt sich und blickt auf die Uhr.
+siebenter: Der Vierte und der Fünfte bleiben bei mir. Die
+andern können sich (zeigt auf den Pavillon) ihrem gebührenfreien Stoffwechsel hingeben. Vergesst nicht, dass die Rede
+übertragen wird! Macht es kurz.
+achter zum Neunten: Er kommandiert schon wie der Alte.
+neunter: Gebührenfreier Stoffwechsel! (Zum Siebenten.)
+Trag deine Nase nicht höher als den Kopf!
+vierter sich setzend, zum Achten: Sag der Kleinen, ich hätte
+keine Zeit. Sie soll sich nicht ängstigen.
+achter: Vielleicht fällt mir etwas ein, was sie auf andere
+Gedanken bringt.
+fünfter sich setzend, zum Achten: Deine Einfälle haben
+noch niemanden auf andere Gedanken gebracht.
+vierter: Nicht einmal ihn selber. (Lacht.)
+neunter zum Achten: Da sitzen sie nun und wollen stricken! Babywäsche für die Zukunft! Schwangere Männer
+sind was Scheußliches! (Zum Siebenten.) Alte Ordnung
+ist mir lieber als neue Unordnung! Was man hat, weiß
+man! Was man kriegt, weiß man nie! (Zum Achten.)
+Komm!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+74 75
+achter: Recht hat er! Uns geht’s hier gut. Als Gegenleistung lassen wir uns Bärte wachsen. Ist das zu viel verlangt? Manchmal wird einer abgeholt. Gelegentlich
+beißt einer ins Gras. Und? Betriebsunfälle kommen in
+jeder Branche vor.
+neunter: Lass sie stricken!
+achter zum Siebenten: Wir führen ein Leben wie im Goldfi schglas. Deinetwegen sollen wir herausspringen? (Zum
+Neunten.) Alle nasenlang kommt so ein Bursche um die
+Ecke gebraust und will die Welt verbessern! (Zum Siebenten.) Woher wisst ihr denn so genau, wie unser Glück
+aussieht? Wie? (Kleine Pause.) Unsre Ruhe wollen wir haben! (Brüllt.) Unsre Ruhe wollen wir haben, zum Donnerwetter noch einmal! So! Und jetzt geh ich!
+fünfter: Beeil dich! Du bist grad so schön in Schwung!
+(Lacht.)
+achter und neunter gehen rasch in den Pavillon ab.
+vierter: Was er sagt, ist nicht halb so dumm, wie’s klingt.
+Wenn dein Plan fehlschlägt, verlieren wir alle die Rübe.
+Das ist kein sehr erbaulicher Gedanke. Immerhin, der
+Fall liegt klar. (Beugt sich zum Siebenten vor.) Doch was
+wird aus uns, wenn der Plan gelingt? Dich machst du
+zum Minister oder zum Senatspräsidenten oder zum
+Botschafter beim Vatikan. Schön. Was der Mensch
+braucht, muss er haben. Aber wir? Er? Ich? (Zeigt zum
+Pavillon.) Sie? (Zeigt in entgegengesetzte Richtung.) Die Übrigen? Was wird aus uns? Glaubst du im Ernst, dass er
+(zeigt auf den Fünften) wieder Lokomotivführer werden
+will?
+fünfter lacht verkniffen.
+vierter: Dass er sich nach seinem feurigen Ofen auf Rädern zurücksehnt?
+fünfter haut auf den Tisch: Ich denk nicht dran!
+siebenter: Die Direktion der Staatsbahnen denkt noch
+weniger daran! Lokomotivführer, die im Suff Signale
+überfahren und dreiundachtzig Reisende in den Himmel befördern, statt in die Hauptstadt, sind nicht sehr
+beliebt.
+fünfter springt vom Stuhl hoch: Hör davon auf! (Ruhiger.)
+Antworte auf seine Frage. (Setzt sich.) Was wird aus uns,
+wenn dein Plan gelingt?
+vierter: Wenn wir nun nicht wollen?
+siebenter etwas gelangweilt: Ihr seht das falsch. Die Lawine
+rollt schon. Kann man Lawinen aufhalten? Es wäre eine
+höchst ungesunde Beschäftigung.
+fünfter: Und wenn deine Lawine nicht rollt? Sie kann als
+Schneeball sterben. Weißt du’s, während du hier sitzt?
+Nein!
+vierter ärgerlich zum Fünften: Schweif nicht ab! (Zum Siebenten.) Nehmen wir an, deine Freunde draußen stricken
+ihren Strumpf wie du hier den deinen. Nehmen wir an,
+die zwei Strümpfe ergeben ein Paar, das passt. Das zusammenpasst. Was, wollen wir nun endlich wissen, wird
+dann aus uns?
+fünfter: Keiner von uns kann zurück, woher er kam. Jeder hat seine Gründe. Also, wohin? Willst du uns an die
+Fremdenlegion verschachern?
+siebenter: Ihr nehmt euch zu wichtig.
+vierter: Lass uns ausstopfen. Fürs Panoptikum. Dann bist
+du uns los.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+76 77
+siebenter: Man wird sehen. Eins steht fest. Taugenichtse
+mit voller Pension und aufmerksamer Damenbedienung wird es ab morgen nicht mehr geben. Und ein Altersheim für arbeitslose Vollbärte wird die neue Regierung nicht bewilligen.
+vierter: Wir besitzen Verträge. Ihr müsst uns abfi nden.
+fünfter: Wir verlangen Auswanderungspapiere.
+siebenter: Ich habe über euch noch nicht nachgedacht.
+fünfter: Das solltest du bei Gelegenheit tun!
+vierter: Am besten, du tust es gleich!
+siebenter: Fürs Erste weiß ich nur eins: Heute Abend kehrt
+ihr hierher zurück.
+vierter: Zurück? Wieso? Sind wir denn zu deiner Revolution eingeladen?
+fünfter: Welche Ehre! (Zum Vierten.) Wir dürfen dabei
+sein, wenn man unsre Existenz vernichtet!
+vierter: Hast du für uns eine Loge reservieren lassen?
+Oder sollen wir eine Kaserne stürmen?
+siebenter: Ihr erfahrt es beizeiten. Jedenfalls, danach kehrt
+ihr hierher zurück. Für ein paar Wochen. Man wird mit
+euch einen Film drehen.
+fünfter: Einen Film? Mit uns?
+siebenter: Er wird im In- und Ausland Aufsehen erregen
+und, nachträglich, unsern Umsturz legitimieren.
+vierter: Ich verstehe. »Die Vollbärte von Schloss Belvedere« oder »Die Präsidentenfabrik«. Der Professor und
+wir in vollem Betrieb!
+fünfter: Auch der Pavillon mit den Mädchen? (Zum Vierten.) Du mit der besoffnen Kleinen in einer Liebesszene!
+Und Pauline mit dem Neunten im Nahkampf!
+vierter: Der Professor als Filmstar!
+siebenter: Ein schönes Ende.
+vierter: Ende? Ach so.
+siebenter: Früher zeigte man solche Leute während ihrer letzten Tage in eisernen Käfi gen. Dann wurden sie
+gevierteilt, und die Legende vervierfachte sich. Heute
+werden sie und ihre Taten fotografi ert. Die Geschichtsfälscher werden aussterben wie ein primitiver Völkerstamm.
+vierter: Und wie steht’s mit der Gage?
+siebenter: Wenn wir zufrieden sind, werdet ihr zufrieden
+sein.
+fünfter: Vielleicht mach ich eine Kneipe auf. Das wollte
+ich schon als Kind.
+professor kommt aus dem Park auf sie zu.
+siebenter halblaut: Aufstehen!
+die drei erheben sich.
+professor setzt sich.
+die drei treten zur Seite.
+professor: Unser Feiertag läuft wie am Schnürchen. Das
+ganze Land in festlichster Laune. Befohlene Freude
+lässt sich von echter nicht mehr unterscheiden. Furcht
+wird Jubel. Auch in den Lagern werfen sie begeistert die
+Mützen in die Luft. Man müsste eine neue Psychologie
+schreiben. Thema: Die Seele als erziehbarer Mechanismus. Der Büromensch. Der Kasernenmensch. Der Gefängnismensch. Der Fabrikmensch.
+vierter: Eine Art Kochbuch. »Hundert Rezepte, Menschenfl eisch zu braten, zu kochen und zu verwursten.«
+professor: Ganz recht. Etwas für Feinschmecker.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+78 79
+siebenter: Warum tun Sie’s nicht?
+professor: Vielleicht später einmal.
+fünfter lacht hämisch: Später?
+vierter: Drehen Sie lieber einen Film!
+fünfter: Mit Ihnen in der Hauptrolle!
+Beide lachen.
+siebenter: Lasst den Unsinn!
+professor blickt auf die Uhr: So. Jetzt hat man sich im
+Großen Palast versammelt. In einer Viertelstunde legt
+der Senat seine Befugnisse »freiwillig« in die Hände des
+Präsidenten zurück. Anschließend bedankt er sich für
+diesen korporativen Selbstmord.
+fünfter: Hoffentlich tritt er hinterher nicht auf den Balkon.
+vierter: Sonst brauchen sie, in einer halben Stunde, womöglich schon wieder einen neuen Präsidenten.
+professor: Die wachsende Zahl der missglückten Anschläge lähmt die Attentatsfreudigkeit. Sie können eines
+ruhigen Lebensabends hier draußen so gut wie sicher
+sein.
+fünfter zum Siebenten: Da hörst du’s!
+professor zum Siebenten: In zehn Minuten vollzählig im
+Schulsaal! Wir wollen uns gemeinsam an der Übertragung der Nationalfeier erbauen. (Will gehen.)
+major kommt im Chauffeurmantel aus dem Park. Zum Professor: Da sind Sie ja!
+professor: Warum suchen Sie mich? Und wer sind Sie?
+major: Ich bin der Chauffeur des Panzerwagens.
+professor: Nein.
+major: Genauer, die Vertretung. Er selber wollte seinen
+Schwager zum letzten Mal besuchen. Im Gefängnis. Er
+wird morgen deportiert, der Schwager. Da brauchte er
+den freien Tag, der Chauffeur.
+professor: Die Papiere!
+major überreicht Schriftstücke und mustert die Runde.
+professor die Papiere prüfend: Wieso schickt der Inspektor
+den Wagen jetzt? Während der Präsident bekanntermaßen der Nationalfeier beiwohnt? Ihre Fahrt grenzt an
+Unsinn!
+major: Ich bin überfragt. Schließlich bin ich die Vertretung
+für einen Chauffeur und nicht die Palastinspektion. Für
+Gefälligkeiten lässt man sich ungern schief ansehen.
+professor: Ich rufe im Palast an. (Will gehen.)
+major zieht den Revolver: Laufen Sie bitte nicht fort! (Zu den
+Übrigen.) Ist einer von euch der Siebente? Als ich ihn
+kennenlernte, hatte er weniger Haare im Gesicht.
+siebenter: Die Stunde ist gut gewählt, Major. (Zum Vierten.) Hol die beiden aus dem Pavillon. (Zum Fünften.) Du
+holst die andern. Bringt eure und unsre Hüte mit. Und
+die Handschuhe. Es soll ein korrekter Staatsstreich werden.
+vierter zum Fünften: Der zweite Strumpf scheint zum ersten zu passen. (Ab in den Pavillon.)
+fünfter: Hüte und Handschuhe – wie bei einer Beerdigung! Na, es ist ja auch eine. (Nach der anderen Seite
+ab.)
+major zum Siebenten, der die Taschen des Professors sachlich
+durchsucht: Der Palast und die übrigen Schlüsselpositionen dürften jetzt in unserer Hand sein. Panzer schnüren
+die Ausfallstraßen ab. Parlamentäre an die auswärtigen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+80
+Garnisonen sind unterwegs. Ich begleite Sie zum Rundfunk.
+siebenter hat gefunden, was er suchte, und steckt es in die Tasche.
+major: Zyankali?
+professor zum Siebenten: Das kleine Praliné hätte mir und
+Ihnen viel Mühe erspart.
+major: Sie überschätzen die Mühe. Außerdem, ein Volk
+zur Sau machen und dann an einem Praliné sterben, das
+hat keine Proportion.
+siebenter zum Major: Hatten Sie mit der Schlosswache
+Schwierigkeiten?
+major: Der diensttuende Offi zier war mit mir auf der
+Kriegsschule. Die Telefonleitung, der Autopark und die
+Hochspannungsanlage sind in unserer Hand.
+siebenter: Die Mannschaft?
+major: Erhält ab sofort doppelte Löhnung.
+professor: Doppelt hält besser. (Zum Siebenten.) Eine meiner letzten Fragen – wer sind Sie?
+major: Ihre letzte Frage. Vor etwa zwei Jahren fi el in London ein Mann aus einem Hotelfenster. Ein Emigrant.
+professor: Der »Tribun« – ich erinnere mich. Es war ein
+sehr nützlicher Unglücksfall.
+major: Der Mann fi el aus dem sechsten Stock, mit dem
+Kopf voran aufs Pfl aster. (Auf den Siebenten zeigend.) Hier
+steht er.
+professor: Mit einem neuen Kopf?
+major: Ihre Leute warfen den falschen Mann auf die Straße.
+siebenter: Genug!
+major auf den Siebenten zeigend: Mit seinen Papieren in der
+Brusttasche.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+82 83
+professor: Auf die auswärtigen Mitarbeiter ist kein Verlass. (Zum Siebenten.) Der falsche Mann mit den richtigen Papieren. Der richtige Mann mit den falschen Papieren. Eine ungemütliche Verwechslung.
+major tritt, fertig zum Genickschuss, hinter den Professor: Stehen Sie still! Haben Sie Angst?
+professor sich exakt beobachtend: Ich nicht. Aber meine
+Knie.
+siebenter zum Major: Lassen Sie ihn!
+professor: Auch die Hände zittern. Höchst peinlich. (Er
+schwankt.)
+major zum Siebenten: Wie Sie wünschen. (Steckt zögernd die
+Waffe ein.) Großmut ist Luxus.
+siebenter: Wir brauchen ihn noch.
+achter eilends aus dem Pavillon: Geht es wirklich los?
+neunter folgt hastig, fährt in den zweiten Rockärmel: Diese
+verfl uchte Weltgeschichte! Jedes Mal mitten im schönsten Vergnügen!
+vierter kommt als Letzter: Das kleine rabiate Biest wollte
+ihn gar nicht fortlassen.
+achter auf den Professor zeigend: Vor dem haben wir einmal
+gezittert! Wie die Zeit vergeht!
+neunter: Ist es der nicht, ist’s ein andrer.
+doris und pauline kommen in Negligés aus dem Pavillon.
+doris: Tatsächlich!
+pauline: Sie haben ihn nicht einmal gefesselt!
+vierter: Das ist nicht mehr Mode.
+achter: Wozu auch? (Tritt gemächlich vor den Professor.) Nun
+zittert er.
+professor: Es handelt sich um einen bloßen Refl ex.
+achter: Einen schönen Gruß von deinen Meerschweinchen! (Gibt ihm eine Ohrfeige.) Es ist »ein bloßer Refl ex«.
+(Schlägt wieder zu.)
+pauline: Da will ich mal die Koffer packen und mich nach
+einem andern Etablissement umtun.
+siebenter zu den zwei Frauen: Ihr bleibt bis auf weiteres hier!
+doris zu Pauline: Er will uns zu Nonnen umarbeiten. Revolutionären ist alles zuzutrauen.
+pauline: Den Staat kann er vielleicht ändern. Mich nicht.
+siebenter: Ihr bleibt hier. Wir kommen wieder. (Kurz auf
+den Professor zeigend.) Und auf den passt auf! (Zum Vierten
+und Achten.) Bringt ihn in den Pavillon!
+professor: Nein! (Will fl iehen.)
+vierter ihn festhaltend: Hiergeblieben!
+pauline die Arme ausstreckend: Komm, mein Süßer!
+achter und vierter zerren den Professor schrittweise zum
+Haus.
+achter: Sei nicht albern!
+vierter: Marsch ins Bett!
+doris: Endlich, Professorchen!
+neunter: Gleich werd ich eifersüchtig.
+professor will sich losreißen, wird geschlagen und weitergezerrt.
+Die Männer, außer dem Siebenten und dem Major, lachen.
+pauline: So ungern kam noch keiner. Es kränkt mich. Wir
+werden ihm die Händchen auf dem Rücken zusammenbinden.
+vierter: Auf deinem?
+doris: Und ihm die Ohren zuhalten. Damit er nicht hört,
+wie er sich amüsiert.
+siebenter: Fort damit!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+84 85
+professor: Nein!
+vierter und achter stoßen den Professor ins Haus.
+pauline folgt ihm energisch.
+stimme des professors: Lassen Sie mich los! (Er wird geschlagen.)
+stimme paulines drohend: Gib Tante Küsschen!
+vierter, achter und neunter lachen.
+doris zum Siebenten: Inzwischen, viel Erfolg und wenig
+Reue!
+siebenter nickt kurz.
+fünfter, zehnter, elfter, zwölfter usw. kommen in
+Hüten und Handschuhen, bringen die Handschuhe der anderen mit und verteilen sie rasch. Alle machen sich ausgehfertig.
+doris geht in den Pavillon und schließt hinter sich die Tür.
+major: Wollen Sie das Panoptikum wirklich mitnehmen?
+siebenter zum Vierten: Meldet euch beim diensttuenden
+Offi zier und wartet an den Garagen!
+vierter zu den Übrigen: Im Gleichschritt, marsch! (Alle, bis
+auf den Siebenten und den Major, gehen gehorsam und militärisch formiert ab. In die Richtung, aus welcher der Major
+aufgetreten ist.)
+siebenter zum Major: Während meiner Rundfunkerklärung werden die Kerle in den wichtigsten Bezirken der
+Hauptstadt auftauchen. Gleichzeitig und paarweise.
+Zwei Präsidenten, Arm in Arm, im Hafenviertel. Zwei
+vor den Kasernen. Zwei auf dem Großen Platz. Zwei
+zwischen den Hochhäusern der Staatsangestellten.
+major anerkennend: Panzer und Gelächter, eine aparte Allianz!
+siebenter: Lachsalven helfen Granaten sparen.
+major lächelnd: Nicht nötig. Wir haben genug. (Blickt auf
+seine Uhr.) Es ist so weit! (Beide wollen gehen.)
+schreie des Professors aus dem Pavillon.
+siebenter und major bleiben stehen.
+schreie des Professors werden leiser und ersterben.
+siebenter und major blicken zum Pavillon.
+major: Kein schöner Gesang.
+siebenter: Wie aus der Folterkammer. (Will auf den Pavillon
+zu.)
+pauline reißt die Tür auf, holt tief Luft, lehnt sich schwer gegen die Türfüllung: Ich hab es gleich gesagt, die Kleine ist
+verrückt. Beißt in den alten Gauner hinein wie in einen
+Apfel. Wir wollten sie wegzerren. Im Kino hab ich mal
+gesehn, wie ein Löwe ein Zebra hinmachte. Genau so.
+Und ihre Zähne sind rot wie von Lippenstift!
+major: Die werte Kollegin hat den Herrn totgebissen?
+pauline: Kollegin?! Anständige Mädchen sind was
+Schreckliches. Sie nehmen ihre Haut zu wichtig, und
+damit bringen sie alles durcheinander. Wahrscheinlich
+ist er tot. Sie selber liegt auf dem Teppich und verdreht
+die Augen.
+doris tritt neben Pauline: Das Zimmer sechs hat’s hinter den
+Ohren.
+pauline: Mich bringen keine zehn Pferde wieder hinein!
+doris: Er läuft aus wie eine Flasche Himbeersaft.
+siebenter: Holt das Mädchen heraus und schließt das
+Zimmer ab!
+major: Es wird Zeit.
+siebenter: Lebendig wäre er mir lieber gewesen. Kommen
+Sie! (Mit dem Major ab.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+87
+pauline geht treppab: Mir wäre er lebendig auch lieber gewesen! (Setzt sich.) Im Grunde war er, glaub ich, ‚n Masochist. Er wollte es nur nicht zugeben. (Räkelt sich.)
+Abends sind sie wieder zurück?
+doris: Ja. Sie wollen nur rasch die Welt verändern. (Ins
+Haus ab.)
+pauline: Und wenn sie alles auf den Kopf stellen – Frauen
+brauchen sie immer!
+Vorhang
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+89
+Das achte Bild
+Vorstadtkneipe mit ungedeckten Holztischen. Rückwand: großes
+Buntdruckbild des Präsidenten. Garderobenhaken. Toilettentüren.
+Ein Spielautomat. Rechts: zwei Fenster zur Straße und die Eingangstür. Ein Radioapparat. Links: Biertheke mit Zapfhähnen
+und Spülbecken. Ein paar Hocker. Vorn: Stufen hinter die Theke.
+Linke Seitenwand: Servierfenster zur Küche und Tür zur Wohnung.
+Hinter der Theke die Wirtin. Auf einem Hocker ein Matrose
+der Handelsmarine. An den Tischen ein Buchhalter bei Kaffee und
+mitgebrachtem Frühstück und ein alter Hausierer, der den Bauchladen auf dem Tisch abgestellt hat, beim Bier. Die vier starren auf
+den Radioapparat. Am Spielautomaten ein Halbwüchsiger, der
+unentwegt spielt. Manchmal klappert Gewinngeld.
+stimme des Siebenten inmitten seiner Funkansprache an die
+Bevölkerung: … So sah sie aus, die blutige Komödie!
+buchhalter: Wer’s glaubt, wird selig.
+matrose: Halt’s Maul! Ich erkenn seine Stimme. Er sprach
+früher aus London.
+stimme des Siebenten: Starb eine Marionette, durch
+Mord, Attentat oder Krankheit, holte man den nächsten
+Hampelmann aus der Schachtel. Verhaftete weiter. Enteignete weiter. Schändete weiter. Folterte weiter. Mordete weiter. Und ihr verkamt in Angst.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+90 91
+wirtin: Und? Bier trinken auch Ängstliche.
+stimme des Majors: Achtung, Achtung! Es spricht der
+Tribun!
+stimme des Siebenten: Jagt eure Angst zum Teufel!
+hausierer zur Radiostimme hinüber: Ach, alter Freund …
+buchhalter: Kennen Sie ihn?
+hausierer: Ich kannte ihn.
+stimme des Siebenten: Die Mörder sind nicht mehr eure
+Richter. Die Strafe trifft wieder den, der sie verdient. Gesetz und Gerechtigkeit erkennen sich wieder. Sie wollen
+sein, was sie waren: Geschwister. Das schlechte Gewissen, diese letzte und schlimmste Plage der Unschuldigen, kehrt endlich dorthin zurück, woher sie kam: zu
+denen, die schuld sind.
+stimme des majors: Achtung, Achtung! Es spricht der
+Tribun!
+stimme des Siebenten: Euer Eid gilt einem Manne, der
+vor drei Jahren auf der Straße starb. Einem Mörder, der
+ermordet wurde. Der Eid starb mit dem Mann.
+matrose vom Hocker kletternd: Der Kerl muss herunter.
+(Geht zum Bild an der Rückwand.)
+wirtin kommt hastig hinter der Theke hervor: Lass ihn hängen! (Läuft hinter dem Matrosen her.)
+matrose: Ich zertret ihm die Visage!
+stimme des Siebenten: Die Zeit ohne Eid und Gewissen
+ist vorüber. Ich bin, mit dieser Stunde, Chef der Provisorischen Regierung. Alle politischen Gefangenen sind
+sofort in Freiheit zu setzen.
+halbwüchsiger verblüfft: Da kommt ja auch mein Vater
+raus! (Weiterspielend.) Der wird sich umschaun!
+matrose will das Bild vom Haken heben: Der nächste Herr,
+bitte!
+wirtin ihm in den Arm fallend: Er bleibt! Bis es in der Zeitung steht!
+buchhalter ängstlich: Recht hat sie. Vielleicht ist es ein
+Trick. Oder ein Hörspiel!
+stimme des Siebenten: Das Entschädigungsgesetz und
+das Wahlgesetz wurden im Exil entworfen. Sie werden
+umgehend beraten und verabschiedet werden.
+hausierer: Und die Toten kriegen hübsche neue Köpfe.
+matrose hält die Wirtin derb gepackt und küsst sie.
+stimme des Majors: Achtung, Achtung! Es spricht der
+Tribun!
+Draußen rollt ein Panzerwagen näher, bremst und hält.
+halbwüchsiger kurz interessiert: Ein Panzer! (Spielt weiter.)
+buchhalter tritt zum Hausierer: Es ist noch kein Schuss gefallen. Eine seltsame Revolution. Haben Sie Schnürsenkel für schwarze Halbschuhe?
+hausierer: Warten Sie lieber ab. Vielleicht werden diesmal schwarze Halbschuhe verboten!
+stimme des Siebenten: Unsere vornehmste Aufgabe wird
+es sein, Freiheit und Ordnung wieder ins Gleichgewicht
+zu bringen.
+buchhalter: Da haben Sie’s! Ich nehme die Schnürsenkel. (Der kleine Handel wird erledigt.)
+stimme des Siebenten: Das ist keine Redensart. Es ist kein
+frommer Wunsch, sondern eine Notwendigkeit. Als Ge-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+92
+gengabe erwartet uns das Vertrauen des Volks und der
+Völker.
+wirtin zum Matrosen: Finger weg! (Rangiert ihre Kleidung.)
+Die Weltgeschichte steht kopf, und du zerreißt mir die
+Bluse! (Läuft hinter ihre Theke.)
+matrose: Du weißt nicht, was du willst. Aber das willst
+du.
+stimme des Siebenten: Wir wollen das Vernünftige mit
+den Vernünftigen erreichen. Alle unter der Diktatur abgesetzten Beamten und alle Funktionäre der aufgelösten
+Parteien und Gewerkschaften stellen sich sofort zur Verfügung. Das ist eine Bitte, aber eine Bitte kann mehr sein
+als ein Befehl. Meldet euch sofort im Großen Palast!
+panzersoldat kommt, feldmarschmäßig, ins Lokal: Sechs
+Flaschen Bier für meinen Panzer!
+wirtin eifrig: Sofort, Herr Leutnant! (Stellt Flaschen auf die
+Theke.)
+stimme des Siebenten: Unerprobte Gesinnung ist kein
+Beweis. Und Erfahrung ist nicht nachholbar. Wir brauchen euch! Wir brauchen die Erfahrenen und Erprobten!
+buchhalter zum Panzersoldaten: Hat’s Tote gegeben?
+panzersoldat: Wir haben einen kleinen Hund überfahren. Sonst wollte niemand vorzeitig sterben. Die Geschäftsleute ziehen schon wieder die Rollläden hoch.
+wirtin: Das ist ein gutes Zeichen.
+stimme des Siebenten: Meldet euch sofort im Großen
+Palast! Der Staat braucht eure Kraft. Und die Jugend
+braucht euer Beispiel.
+panzersoldat: Da steht ja die Jugend! (Gibt dem Halbwüchsigen eine Ohrfeige.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+94 95
+halbwüchsiger während der Spielautomat Geld zahlt: Sechsfaches Geld! Sie bringen mir Glück! (Spielt weiter.)
+stimme des Majors: Achtung, Achtung! Es spricht der
+Tribun!
+matrose das Bild des Präsidenten vom Haken holend: Nun
+komm schon herunter, du alter Gauner!
+buchhalter kichernd: Mit dem Fortleben nach dem Tod
+ist’s aus.
+matrose tritt mit dem Stiefel ins Bild.
+panzersoldat verstaut das Flaschenbier.
+wirtin: Lass den Rahmen ganz!
+hausierer: Er kann nichts dafür.
+wirtin zum Panzersoldaten: Das Bier kostet nichts.
+panzersoldat: Die neue Zeit dankt. (Geht rechts ab.)
+stimme des Siebenten: Die verbrecherischen Mitglieder des bisherigen Kabinetts, die Gouverneure und der
+gesamte Senat wurden während der Nationalfeier von
+Einheiten der Achten Panzerdivision verhaftet. Das Urteil wird nicht die Rache sprechen, sondern die Klugheit.
+hausierer: Man wird die Herrschaften an milden Stricken
+aufknüpfen.
+stimme des Siebenten: Alle Landräte, Bürgermeister,
+Richter und Lehrer bleiben bis auf weiteres im Amt.
+buchhalter: Früher hieß es: »Die Kleinen hängt man, und
+die Großen lässt man laufen.«
+matrose: Der Mann ist gegen die Hanfi ndustrie.
+hausierer: Auch die Vernunft schafft sich Feinde.
+buchhalter: Sehen Sie mich an – ich wäre längst Prokurist, aber ich war gegen das Regime. Und jetzt?
+wirtin: Werden Sie wieder nicht Prokurist, Sie Charakter.
+stimme des Siebenten: Der heutige Tag, der, wie zum
+Hohn, als Nationalfeiertag begann, ist tatsächlich und
+wahrhaftig zum Nationalfeiertag geworden. Und es
+bedarf keiner Prophetengabe, schon in dieser Stunde
+zu wissen, dass ihn unser Volk, in Freiheit und Ordnung, noch oft begehen wird. Zur unveräußerlichen
+Erinnerung an schändlich schreckliche und in festlicher Hoffnung auf immer glücklichere Jahre. Lasst
+uns, frei von Furcht, das Heute feiern! Und morgen,
+Freunde, beginnen die Wochentage! (Übermütiges Gelächter einer größeren Menschenmenge nähert sich auf der
+Straße.)
+stimme des Majors: Achtung, Achtung! Es sprach der
+Tribun! Bleiben Sie an den Empfangsgeräten! Wir
+kommen wieder! Der Tribun verlässt das Funkhaus
+und begibt sich im offenen Wagen zum Großen Palast!
+Bleiben Sie an den Apparaten! Panzer der Achten Division begleiten den Tribun! Sie hören ihn wieder aus
+dem Palast! (Markantes Pausenzeichen bis zum Schluss des
+Bildes.)
+der Vierte und der Fünfte, hinter ihnen eine johlende
+Menge, kommen hastig herein und stemmen sich gegen die lachend nachdrängenden Verfolger.
+eine Stimme: Eine Runde für die Hampelmänner!
+vierter zerrt ein junges Mädchen ins Lokal: Komm, mein
+Hühnchen! (Drückt mit aller Kraft die Tür zu.)
+fünfter dreht den Schlüssel um, aufatmend: Das hätten wir!
+(Trocknet sich die Stirn.) Mein Hut hat ein Loch. So ‚ne
+Bande!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+96 97
+matrose lachend: Zwei »aus der Schachtel«! (Zum Buchhalter.) Nun? Hat der Tribun gemogelt? (Zur Wirtin.) Eine
+Flasche Bier für die Herren Präsidenten!
+vierter nimmt den Hut des Fünften, hinkt zu den Garderobenhaken und hängt die Hüte auf: Das ist ‚n Wort!
+wirtin: In diesem Lokal schließt nur einer die Tür ab, und
+das bin ich! (Kommt mit einer Flasche und zwei Gläsern hinter der Theke vor.)
+fünfter mit ausgebreiteten Armen: Olga!
+wirtin setzt Gläser und Flasche auf einen Tisch und starrt den
+Fünften an.
+fünfter: Wo ist Gustav?
+wirtin zögernd: Auf dem Friedhof.
+matrose: Seit ‚nem Jahr.
+fünfter begeistert zum Vierten: Menschenskind, sie ist
+Witwe!
+vierter hinkt zum Tisch und schenkt Bier ein: Gratuliere!
+(Trinkt.) Mir ist einer aufs Hühnerauge getreten. (Setzt
+sich.)
+fünfter umarmt die verblüffte Wirtin.
+matrose drohend: Die Witwe ist meine Braut, Herr Präsident.
+fünfter abwinkend: Meine Braut war sie schon, als sie noch
+verheiratet war. (Flüstert der Wirtin etwas ins Ohr.)
+wirtin sträubt sich zunächst, dann: Ich denke, du bist in
+Amerika bei der Eisenbahn? Auf der Ansichtskarte
+stand: »San Francisco ist gar nicht weit.«
+fünfter: Ja. Das stand drauf.
+vierter: Dabei wohnten wir um die Ecke! Aber trotzdem
+war’s sehr weit weg …
+fünfter: Ich bleib jetzt hier. (Geht hinter die Theke, zur Wirtin.) Und entlobe dich inzwischen! (Links in die Wohnung
+ab.)
+vierter zu dem jungen Mädchen: Komm, mein Hühnchen!
+(Zieht sie zu sich.)
+mädchen: Die Läden haben wieder geöffnet. Ich soll Brot
+und Milch holen.
+vierter: Du hast mich auf der Straße am Bart gezogen.
+mädchen: Ich wollte wissen, ob er echt ist.
+vierter: Jetzt bist du an der Reihe. Halt still!
+mädchen: Ich hab doch gar keinen Bart!
+vierter: Das ist Ansichtssache.
+mädchen: Aua! (Springt auf.)
+hausierer: Setz dich zu mir.
+mädchen setzt sich zum Hausierer.
+matrose zur Wirtin: Was hat er dir ins Ohr gesagt?
+wirtin: Etwas, was die andern nicht hören sollten.
+vierter zum Buchhalter: Die Dame entlobt sich gerade.
+(Trinkt.)
+buchhalter: Und ein Hund ist überfahren worden. Eine
+schöne Revolution! (Zum Vierten.) Wenn Sie vor ein,
+zwei Jahren Präsident geworden wären, wär’s uns auch
+nicht aufgefallen.
+vierter: Erlauben Sie mal! Sie hätten vor mir gezittert! Wir
+haben uns sogar untereinander verwechselt!
+halbwüchsiger Gewinngeld kassierend: Halten Sie doch
+mal ‚ne kleine Rede! Ich spendier ein Bier.
+vierter nach kurzer Pause: Abgemacht!
+halbwüchsiger: Ein Bier für den Präsidenten! (Klimpert
+mit Geld.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+98 99
+wirtin: Noch ein Bier. (Will hinter die Theke.)
+vierter hält sie zurück: Setzen! Zieht sie auf einen Stuhl, erhebt sich, geht würdevoll hinter die Theke, öffnet eine Flasche,
+schenkt sich ein, trinkt und sammelt sich.
+buchhalter: Wir sind die Staatsräte. (Alle, außer dem Hausierer und dem Matrosen, spielen mit.)
+vierter in Positur und Gehabe des Präsidenten: Die Freunde
+achten uns. Die Feinde fürchten uns. Das ist in unserm
+verfehlten Jahrhundert keine Selbstverständlichkeit
+mehr. Nicht in den Staaten. Nicht zwischen den Staaten.
+halbwüchsiger: Hoch! Hoch! Hoch!
+vierter: Wir haben unsere Grenzen ausgedehnt. Nicht
+etwa, um unsere Macht zu beweisen. Wirkliche Macht
+hält keine Manöver ab.
+buchhalter: Es lebe der Präsident! (Junges Mädchen fällt
+ein.) Es lebe der Präsident!
+vierter winkt, aus dem Konzept geraten, ab: An der Stelle
+wurde nicht geschrien! (Memorierend.) … Manöver ab …
+Sondern … Teile unseres Volkes … Teile unseres Volkes … (wieder in der Rolle, zunehmend drohender und echter)
+Im Land herrschen Ruhe und Einmütigkeit. Es bedurfte
+keiner Überredung. Das Volk wurde überzeugt. Noch
+gibt es vereinzelte Widersacher.
+hausierer: Freiheit und Ordnung!
+vierter zum Hausierer: Neinsager aus Profession. Verräter
+in fremdem Sold und Auftrag. Aber sie hocken im Mauseloch der Angst. Ein Schritt, ein Satz genügt, und sie
+sitzen in der Falle. Mauseloch oder Mausefalle, die Leute
+haben die Wahl. Diese und keine andre. Man lasse es
+sich gesagt sein.
+wirtin: Ich krieg schon wieder Angst.
+vierter: Die Arbeit wurde erst halb getan. Ganze Arbeit
+ist nötig.
+Ein Schuss fällt auf der Straße.
+vierter taumelt, greift sich ins Gesicht.
+die anderen sitzen wie gelähmt.
+fünfter kommt aus der linken Tür, ohne Bart, in offenem
+Hemd und Strickjacke, der typische Kneipenwirt: War das ein
+Schuss?
+wirtin springt auf: Otto! (Läuft zum Fünften.)
+vierter: Blute ich? (Mustert seine Hand.) Nein. Einbildung.
+Merkwürdig. (Zum Fünften.) Nummer fünf ohne Bart!
+mädchen: Das ist ja der andere!
+fünfter zum Matrosen: Hau ab, du Bräutigam! (Tätschelt die
+Wirtin.) Das ist nun wieder meine Sache.
+wirtin: Wie gut dir Gustavs Jacke passt!
+Jemand rüttelt an der Tür zum Lokal. Schlägt gegen die Türfüllung.
+stimme des panzersoldaten: Sofort aufmachen!
+buchhalter springt an die Tür, dreht den Schlüssel um und öffnet: Oh, der Herr Leutnant!
+Der Panzersoldat tritt ein. Der Buchhalter schließt die Tür.
+matrose: Haben Sie geschossen?
+panzersoldat: Ja. Auf eine leere Bierfl asche. (Zum Vierten.) Wo ist der andere?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+100 101
+wirtin: Welcher andre, Herr Leutnant?
+panzersoldat: Der andre Vollbart. Die Kerle sollen eingesammelt werden. Funkbefehl des Stadtkommandanten.
+vierter: Wo sollt ihr uns hinbringen?
+panzersoldat: Ins Militärgefängnis. Zwei von euch sind
+hereinspaziert. Zwei nehme ich mit. (Zückt den Revolver.)
+matrose auf den Fünften weisend: Da steht der andre!
+wirtin: Das ist mein Mann!
+halbwüchsiger: Es ist der Wirt. Das sieht man doch.
+(Wirft Geld in den Automaten.)
+matrose: Es ist der andre. Bärte kann man abschneiden.
+(Zum Buchhalter.) Stimmt’s?
+buchhalter zögernd: Man darf es, glaub ich, auch.
+panzersoldat: Los, ihr zwei!
+vierter: Wir sollen ins Belvedere zurück! Man will mit uns
+einen Film drehen!
+panzersoldat die Waffe hebend: Das Ding ist entsichert.
+vierter zum Fünften: Da hast du’s! »Was wird aus uns,
+wenn dein Plan gelingt?«, hab ich gefragt.
+fünfter: »Ihr nehmt euch zu wichtig«, hat er gesagt, der
+Herr Tribun. (Gibt der Wirtin einen Kuss.)
+matrose: Entlobt euch etwas schneller!
+vierter zum Fünften: Komm! (Geht zu den Garderobenhaken
+und holt die Hüte.)
+wirtin zum Fünften: Seh ich dich wieder?
+fünfter während er dem Vierten folgt: Das weiß man heutzutage nie. (Sie setzen die Hüte auf.)
+panzersoldat: Ohne Tritt, marsch! (An der Tür, zur Wirtin.) Und noch einmal besten Dank fürs Bier!
+Der Panzersoldat, der Vierte und der Fünfte rechts ab.
+matrose geht hinter die Theke, stößt die Wirtin zur halboffenen
+Wohnungstür: Die Herrschaften entschuldigen uns ein Viertelstündchen!
+Beide links ab. Die Tür schlägt zu.
+buchhalter kichert, dann zum Hausierer: Die Frauen haben
+es auch nicht leicht.
+hausierer steht auf, nimmt den Bauchladen um und legt Geld
+für die Zeche auf den Tisch.
+buchhalter: Sie kennen den Tribun?
+hausierer: Ich kannte ihn. Wir waren einmal Kollegen.
+buchhalter: Der Tribun war Hausierer?
+hausierer lacht laut.
+buchhalter: Und jetzt gehen Sie in den Palast?
+hausierer auf dem Wege zur Tür rechts: Nein, in den Stadtpark. Dort ist es sonniger. (Ab.)
+buchhalter: Ein komischer Mann.
+halbwüchsiger: Er wohnt bei uns im Hinterhaus. Früher soll er irgendwas in irgendeiner Partei gewesen sein.
+Dann war er zwei Jahre im Lager. (Spielt weiter. Das Mädchen schaut ihm zu.)
+stimme des Majors: Achtung, Achtung! Der Tribun befi ndet sich auf der Fahrt zum Palast. Laufend erreichen
+uns Funkmeldungen vom Übertritt weiterer Garnisonen. Der abgesetzte Premierminister wurde vor einer
+halben Stunde verhaftet, als er in Frauenkleidung die
+englische Botschaft betreten wollte. Aus dem Palast ist 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+102 103
+in Kürze eine Regierungserklärung zu erwarten. Bleiben Sie an den Empfangsgeräten! Auf Wiederhören!
+Pausenzeichen.
+halbwüchsiger zu dem Mädchen: Mein Vater kommt
+wahrscheinlich aus dem Gefängnis.
+mädchen: Und meiner kommt wahrscheinlich hinein.
+Beide lachen verlegen.
+buchhalter nimmt das Geld des Hausierers vom Tisch und
+steckt es rasch ein.
+Draußen rollt ein Panzer ab.
+Vorhang
+Das neunte Bild
+Der Saal des ersten Bilds. Die festliche Staffage unterbrechen im
+Vordergrund ein Klapptisch mit Feldstühlen, ein Feldtelefon und
+ein Mikrophon mit Kabeln, die zur Tür hinausführen.
+Am Tisch, in Dienstuniform, der Stadtkommandant. Vor
+ihm steht der Inspektor. Ein Unteroffi zier überprüft die Kabelanschlüsse.
+unteroffizier das Mikrophon ausprobierend: Die Verständigung ist gut? Keine Nebengeräusche? Nun noch die
+Telefonleitung! (Am Telefon.) Hallo! Der Herr Stadtkommandant lässt fragen, ob wir genügend Tonbänder
+mitgebracht haben. (Nickt.) Danke, Herr Oberleutnant!
+(Legt den Hörer auf.) Alles in Ordnung, Herr General!
+stadtkommandant: Danke.
+unteroffizier salutiert und geht ab.
+stadtkommandant zum Inspektor: Ihre Angaben decken
+sich mit unseren Informationen. Aber wir sind nicht
+über alles informiert.
+inspektor: Meine Kenntnisse stehen zur Verfügung.
+stadtkommandant: Es stört Sie hoffentlich nicht, dass
+ich Sie verachte?
+inspektor: Ehrlich gesagt, nein.
+stadtkommandant: Ehrlich gesagt?
+inspektor: Treue und Dummheit sind nicht dasselbe.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+104 105
+stadtkommandant: Treue?
+inspektor: Ich habe manchmal darüber nachgedacht.
+Denn wer wäre gern ein schlechter Mensch? Noch dazu
+in den eigenen Augen? Ich diene dem, der die Macht hat.
+Das ist meine Pfl icht. Seine Pfl icht ist es, an der Macht zu
+bleiben. Büßt er sie ein, so bricht er die Treue.
+stadtkommandant: Und was halten Sie von dem Worte
+Charakter?
+inspektor: Es stammt aus den Lesebüchern, wie so manches Unheil. Charakter ist ein feineres Wort für Sentimentalität. Ein sehr schädliches Wort. Es kostümiert ein
+Laster als Tugend. Es ist schuld an den Katastrophen, die
+den Machtwechsel zu begleiten pfl egen.
+stadtkommandant: Man nennt dergleichen Geschichte.
+inspektor: Es war meine Privatmeinung. Ich bitte, sie zu
+vergessen.
+stadtkommandant: Gern. Der wievielten Regierung
+dienen Sie?
+inspektor: Augenblicklich? Der dritten, Herr General.
+stadtkommandant: Meinen Glückwunsch.
+inspektor verbeugt sich.
+major kommt eilig durch die automatisch funktionierende Tür
+und salutiert: Der Tribun fährt vor. Am Nebenportal
+Nord. Wie befohlen.
+stadtkommandant: Gut, mein Lieber. (Am Telefon.) Hier
+der Stadtkommandant. Es ist so weit. Von diesem Saal
+aus erfolgt keine Direktübertragung. Keine! Verstanden? Sie machen nur Tonbandaufnahmen! Über deren
+öffentliche Verwendbarkeit entscheidet niemand außer mir! Wiederholen Sie! Jawohl. Inzwischen: Marschmusik! Danke, Herr Oberleutnant! (Legt den Hörer auf.
+Zum Inspektor.) Die Häftlinge.
+inspektor schnell ab.
+major: Inzwischen Marschmusik. Und was sollen die Gefangenen hier?
+stadtkommandant steht auf: Es ist gut, seine Feinde um
+sich zu haben. (Tritt zum Major.) Und seine Freunde.
+(Zeigt aufs Mikrophon.) Vor aller Welt soll dein Tribun die
+Urteile verlesen.
+major: Er ist nicht mein Tribun.
+stadtkommandant: Ich weiß. Aber er weiß es nicht.
+major: Und was heißt: vor aller Welt? Außer uns wird ihn
+niemand hören. Nur ein Tonband auf einer Spule.
+stadtkommandant: Ich weiß. Aber er weiß es nicht.
+major: Wer hat die Urteile gefällt?
+stadtkommandant: Ein Standgericht.
+major: Er wird sie nicht verlesen.
+stadtkommandant: Damit spräche er sein eignes.
+major: Er glaubt, was er sagt. Er sagt, was er glaubt. Er ist
+gut und will für die meisten das Beste.
+stadtkommandant: Lauter Todesurteile.
+siebenter kommt in den Saal, grüßt den Major mit einem Lächeln und mustert den Stadtkommandanten.
+major salutierend: Der Herr Stadtkommandant!
+stadtkommandant verbeugt sich.
+siebenter gibt ihm die Hand: Sie haben den Tunnel vom andern Ende vorangetrieben. Ich danke Ihnen.
+stadtkommandant: Wir treffen uns nicht auf halbem
+Wege. Die unterirdische Arbeit war Ihr Teil.
+siebenter: Gleichviel. Die List tritt ans Licht. (Lächelnd.) In
+Kostüm und Maske. Der Freund als Feind.
+Durchschuß verringert
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+106
+stadtkommandant: Die List ist gelungen. Die Macht
+hat sich etabliert. (Tritt zum Tisch und deutet auf eine Generalstabskarte.) Die letzte noch widerspenstige Garnison
+wird soeben vom dritten Bombengeschwader eingeebnet.
+siebenter: Eine einzige Garnison? Das ist Mord!
+stadtkommandant: Der Garnisonschef ist (Schaut auf
+die Uhr.) pardon, war der Sohn des verhafteten Kriegsministers. Das Nest verdarb die Optik.
+major: Eine Schönheitsoperation aus der Luft.
+siebenter: Ein überfl üssiger Mord!
+stadtkommandant: Ein neunundneunzigprozentiger
+Sieg ist, bei Bürgerkriegen, noch immer eine Niederlage.
+siebenter beherrscht sich und wechselt das Thema: Wann trifft
+das Flugzeug aus England ein?
+stadtkommandant: London verweigert die Ausreise
+Ihrer Freunde. Vorläufi g. Die Lage sei noch zu unübersichtlich, um jetzt schon Emigranten einzufl iegen, die
+auf Ihrer Kabinettsliste stehen.
+major: Das Ausland erkennt eine Regierung erst an, wenn
+sie konsolidiert ist. Und eine Regierung ist erst konsolidiert, wenn das Ausland sie anerkennt.
+siebenter: Sie sind lustiger, als ich dachte. (Aufs Mikrophon
+weisend.) Die Bevölkerung wartet auf die Bekanntgabe
+der Liste!
+stadtkommandant: Zwei dieser Ihrer Freunde wurden
+vor einem Jahr englische Staatsbürger. Das macht den
+Fall besonders heikel.
+siebenter gereizt: Meine Freunde, meine Emigranten, mein 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+108 109
+Kabinett, mein In- und Ausland! (Aufs Mikrophon zeigend.) Die Bevölkerung wartet!
+stadtkommandant entnimmt einer Aktenmappe ein Papier:
+Die Bevölkerung wartet. Hier ist die Liste!
+siebenter: Ich kenne sie auswendig.
+stadtkommandant: Nein!
+siebenter nimmt die Liste, überfl iegt sie, blickt bestürzt hoch.
+stadtkommandant: Es waren Änderungen notwendig.
+Man kann keine Regierung proklamieren, deren Mitglieder im Exil festgehalten werden.
+major: Minister mit fremden Pässen im Jackett sind indiskutabel. Das Volk nennt sie jetzt schon nachgemachte
+Engländer. Vox populi!
+siebenter: Diese Männer nahmen, damals auf der Flucht,
+mehr Vaterland an den Schuhsohlen mit, als in euren
+Kasernenhöfen zurückblieb! (Schlägt auf die Liste.) Solche Leute wagen Sie mir, im Dutzend, als Minister anzubieten? Generäle, Luftmarschälle und Vizeadmirale, die
+jedem treu sind, der sie befördert?
+stadtkommandant: Treue ist ein geräumiges Thema.
+Auch Patriotismus nötigt zu Zweideutigkeiten.
+siebenter zerreißt die Liste und wirft die Fetzen auf den Boden.
+major zum Siebenten: Ein Friseur und ein Schneider warten
+im Grünen Kabinett. Der neue Staatspräsident muss,
+wenn er die Presse empfängt, anders aussehen als der
+alte.
+siebenter beachtet ihn nicht.
+stadtkommandant hat ein Papier vom Tisch genommen und
+hält es dem Siebenten hin: Die Bevölkerung wartet auch.
+Hier ist ein Durchschlag der Liste.
+inspektor tritt ein und bleibt in der offenen Tür stehen: Die
+Häftlinge.
+stadtkommandant nickt fl üchtig und will dem Siebenten die
+Liste aufdrängen.
+siebenter schlägt sie ihm aus der Hand und schreit: Das ist
+Verrat!
+major hebt die Liste auf und gibt sie dem Stadtkommandanten.
+Der Kriegsminister, der Leibarzt, der Premier (in derangierter
+Frauenkleidung), die Frau des Präsidenten, der Sohn und der
+Sechste kommen, von zwei Soldaten mit Maschinenpistolen eskortiert, in den Saal.
+Die Tür schließt sich. Der Inspektor stellt die Gefangenen im
+Mittelgrund der Bühne auf.
+kriegsminister: Kleine Familienstreitigkeiten? Das ist
+recht.
+inspektor: Halten Sie den Mund!
+leibarzt zum Kriegsminister: Ein sehr tüchtiger Mensch.
+kriegsminister zur Präsidentin: Madame, dort steht Ihr
+Schlafzimmermajor! (Zum Leibarzt.) Ein noch tüchtigerer Mensch!
+präsidentin zum Inspektor: Bringen Sie mir einen Stuhl,
+Sie Lakai!
+stadtkommandant zum zögernden Inspektor: Einen Stuhl
+für die Dame!
+inspektor befolgt den Befehl. Die Präsidentin setzt sich.
+major verbeugt sich formell in Richtung der Präsidentin, die ihn
+ignoriert.
+premier zum Stadtkommandanten: Ich bitte um einen meiner Anzüge, Herr General.
+Durchschuß verringert
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+110 111
+kriegsminister lachend: Er möchte als Mann sterben.
+leibarzt zum Kriegsminister: Das gegebene Thema für die
+Medizinischen Monatshefte! »Wie aus einem geborenen Staatsmann ohne operativen Eingriff ein altes Weib
+wurde« – man müsste etwas mehr Zeit haben.
+siebenter bemerkt die Gefangenen erst jetzt.
+sechster: Tag, Siebenter.
+sohn des präsidenten zum Siebenten: Er hat mir die halbe
+Münze ausgehändigt.
+siebenter tritt auf die beiden zu: Was sollt ihr hier?
+sechster: Man hat uns verurteilt.
+sohn: Und du sollst das Urteil über den Rundfunk bekanntgeben.
+stadtkommandant nimmt ein Papier vom Tisch.
+sohn: Dergleichen gehört zu den Pfl ichten des Staatspräsidenten.
+stadtkommandant zum Siebenten: Die sechs Häftlinge
+sind hauptschuldig. (Nimmt das zweite Papier und zitiert.)
+»Sie haben, maßgeblich und nachweislich, die Lebensdauer eines schändlichen Regimes mit allen Mitteln
+zu verlängern versucht.« (Senkt das Papier) Ein von mir
+bestelltes Standgericht hat die Fälle geprüft und die Urteile gesprochen. (Hält ihm das zweite Papier entgegen.) Der
+neue Staatspräsident wird (blickt auf die Uhr) umgehend
+die Kabinettsliste und die Urteile verlesen. (Nötigt ihm
+das zweite Papier auf.)
+siebenter überfl iegt das Papier: Niemals!
+stadtkommandant am Telefon: Funktrupp? Wir sind so
+weit.
+major stellt sich zur Ansage ans Mikrophon.
+sechster zum Siebenten: Verlies unser Urteil, sonst sprichst
+du deines!
+sohn: Denk jetzt nicht an halbe Münzen! Tu nichts halb,
+und denk ans Ganze!
+präsidentin: Vielleicht war mein Mann doch sein Vater.
+kriegsminister zum Leibarzt: Ungewissheit bis zur letzten
+Minute!
+leibarzt: Ich habe meinen Patientinnen immer empfohlen, genaue Aufzeichnungen zu machen.
+kriegsminister: Erotische Buchführung! (Beide lachen.)
+sechster zum Siebenten: Wie geht es dem Professor?
+siebenter: Er ist tot.
+major: Ein junges Ding hat ihn umgebracht.
+kriegsminister: Wenigstens im Tod ein Lebemann.
+siebenter zum Major: Sagen Sie mich an! Ich werde sprechen!
+major ins Mikrophon: Achtung! Achtung! Wir sind soeben
+im Palast eingetroffen.
+kriegsminister halblaut zum Leibarzt: Es wird das kleine
+Luder gewesen sein.
+ein Soldat bedroht ihn mit der Maschinenpistole.
+major: Die Fahrt war ein Triumphzug. Die Volksmenge
+durchbrach jubelnd die Absperrungen. Der Ruf »Freiheit und Ordnung!« erscholl tausendfach und klang wie
+ein heiliges Gelöbnis. Es war ein Gelöbnis!
+stadtkommandant setzt sich hinter seinen Tisch.
+kriegsminister zum Leibarzt: Sie hasste ihr Temperament
+mehr als mich.
+leibarzt: Das will was heißen! (Schiebt die Mündung der
+Maschinenpistole lässig beiseite.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+112 113
+major: Ins Land der Furcht und Willkür werden Freiheit
+und Ordnung heimkehren. Sie werden heimkehren wie
+der Tribun. Er tritt nun als Staatspräsident ans Mikrophon. Freilich, »Freiheit und Ordnung« kann zu Beginn
+nur bedeuten: »Ordnung und Freiheit«. Das Wort hat –
+der Staatspräsident!
+siebenter am Mikrophon: Liebe Landsleute … Ich kam in
+diesen blutgetränkten Palast, um euch das Kabinett der
+Freiheit bekanntzugeben. Eine stolze Liste ehrenhafter,
+erprobter Männer, die sich, in Jahren der Verfolgung
+und Entbehrung, unermüdlich auf jene Aufgaben vorbereitet haben, die ihnen heute, im Dienste der Heimat,
+feierlich überantwortet werden sollten. Stattdessen will
+mich ein General, den ich für meinen und euren Freund
+hielt, zwingen, ein Kabinett zu proklamieren, das aus einem Dutzend hoher Offi ziere besteht. Aus Leuten, die
+noch heute früh der Diktatur dienten. Aus Kreaturen
+mit auswechselbarem Charakter. Aus Lakaien der ihnen
+zugeschanzten Ämter. Das ist Verrat!
+leibarzt: Der Herr ist lebensmüde.
+kriegsminister: Neben mir ist noch ein Stehplatz frei.
+siebenter: Das ist Verrat an euch und an mir!
+sechster warnend: Siebenter!
+siebenter: Derselbe General hat mir sechs Todesurteile in
+die Hand gedrückt, die ich verlesen soll. Ein Standgericht
+hat sie unbefugt beschlossen. Neue Willkür gibt der alten die Hand. Doch meine Hand geb ich nicht! Zwanzig
+Jahre meines Lebens hab ich für diese Stunde aufs Spiel
+gesetzt. Nun steh ich hier, und sie ist schon vorüber?
+Was hab ich gewollt, und was will ich noch? Ein bisschen
+Glück für die meisten. Ein wenig Ruhe. Ein Eckchen
+Freiheit. Ist das denn viel? Mir liegt nichts an der Macht.
+Ich will nicht herrschen. Ich will mich nicht bereichern.
+Ich will keine Denkmäler. Trotzdem muss ich die Macht,
+gegen meinen Willen, wollen. Weil ich sie nicht missbrauchen werde. Ich bin der einzige Mensch, den ich
+genau kenne und von dem ich sicher weiß, dass er sein
+Wort halten wird. Darum hört meinen Hilferuf! Er gilt
+euch! Hört ihn um euretwillen! Helft euch, indem ihr mir
+zu Hilfe kommt! Bewohner der Hauptstadt, kommt auf
+den Großen Platz! Kommt vor den Palast! Habt es eilig!
+Nehmt nicht erst die Mütze oder den Hut vom Haken! Ihr
+lauft um eure Zukunft! Kommt euch zu Hilfe! Kommt!
+stadtkommandant: Genug. (Ins Telefon.) Dieses Tonband wird auf der Stelle vernichtet. Nicht nur gelöscht.
+Vernichtet, Herr Oberleutnant! Sie haften mit Ihrem
+Kopf. Und jetzt werde ich sprechen. Danke. (Legt den
+Hörer zurück, steht auf und gibt dem Major einen Wink.)
+major geht ans Mikrophon, schiebt den Siebenten wie eine Sache
+beiseite und wartet auf den nächsten Wink des Stadtkommandanten.
+kriegsminister lachend: Es hat ihn kein Schwein gehört!
+präsidentin: Doch, Sie.
+sohn bedeckt die Augen mit der Hand.
+leibarzt: Die Predigt ging ins Leere.
+major auf den Siebenten zeigend: Wache!
+die zwei Soldaten treten, mit Maschinenpistolen im Anschlag, links und rechts neben den Siebenten.
+sechster: »Mauseloch oder Mausefalle«, Siebenter, weißt
+du noch?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+114 115
+leibarzt zum Kriegsminister: In der Politik muss auch der
+gute Mensch ein Zyniker sein, oder es geht ihm wie dem
+da.
+präsidentin: Richtige Männer sind richtige Teufel.
+premier: Man kann fehlende Legitimität nur durch Brutalität ersetzen.
+kriegsminister zum Premier: Gnädigste leben ja auch
+noch!
+stadtkommandant gibt dem Major ein Zeichen: Knappe
+Ansage!
+major ins Mikrophon: Achtung, Achtung! Wir befi nden uns
+im Palast der Hauptstadt. Ihr bisheriger Kommandant,
+nun der Ministerpräsident des Landes, hat das Wort.
+(Tritt beiseite.)
+stadtkommandant ins Mikrophon: Liebe Landsleute!
+Schon glaubten wir, die Ablösung der unerträglichen
+Schandregierung durch besondere, dem Volk und der
+Freiheit gewogene Kräfte sei nicht nur gelungen, denn
+das ist sie, sondern wir hätten sie, im Einklang mit der
+öffentlichen Meinung, ohne nennenswerte Blutopfer erreichen können. Da trifft uns, eben jetzt, eine schwarze
+Nachricht mitten ins Herz. Die schwärzeste Nachricht
+aus heiterstem Himmel. Der Mann, dem wir den Sieg
+der gerechten Sache an erster Stelle zu verdanken haben,
+der Mann, den ihr als Tribun kanntet und der nun als
+Staatspräsident von hier aus zu euch sprechen sollte –
+dieser Mann wurde vor wenigen Minuten beim Betreten
+des Palastes hinterrücks erschossen!
+kriegsminister: Donnerwetter!
+stadtkommandant ins Mikrophon: Mit diesem uns so
+teuren, mit diesem großen Manne, mit diesem selbstlosen Freunde des Volks verlieren wir den Treuhänder
+unserer neuen Freiheit und zugleich den Mut zu ihr.
+siebenter reißt sich los, springt zum Mikrophon und schreit:
+Ich lebe noch!
+major stößt ihn zurück und zieht den Revolver.
+die zwei Soldaten halten den sich Wehrenden fest.
+siebenter: Ich lebe noch!
+ein Soldat hält ihm den Mund zu.
+stadtkommandant ins Mikrophon: Die Schüsse aus
+dem Hinterhalt trafen ihn und die Freiheit. Die feigen Mörder sind entkommen. Wir kennen die Kreise,
+wo wir sie zu suchen haben. Und wir werden sie fi nden! Deshalb erkläre ich hiermit, als dezidierter Nachfolger des freilich Unersetzlichen, bis auf Widerruf
+den Ausnahmezustand! Nähere Weisungen folgen noch
+heute über den Rundfunk und durch Anschlag. So ist
+aus unserm Freudentag, gegen jede Hoffnung, ein Tag
+der Trauer geworden, und aus dem Fest der Freiheit
+der graue Vortag für das Staatsbegräbnis ihres Rufers
+und Erweckers. Lasst uns nun den großen Toten durch
+eine stille Gedenkminute ehren! (Geht zum Telefon und
+hebt den Hörer ab.) Herr Oberleutnant? Die Zwischenrufe werden auf dem Tonband sofort gelöscht. Anschließend erfolgt, nach eingeblendetem Pausenzeichen,
+die öffentliche Sendung. Danach eine Minute Funkstille. Und dann der »Trauermarsch«. Die »Eroica«? Gut,
+dann etwas »Eroica«. Also: Zwischenrufe löschen, Sendung, Funkstille, »Eroica« – ich danke! (Hängt den Hörer
+ein.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+116 117
+leibarzt zum Kriegsminister: Da steht er nun, der Freiheitsheld, und ist längst tot.
+präsidentin: Hinterrücks erschossen, es stimmt aufs
+Haar.
+kriegsminister zum Stadtkommandanten: Der perfekte politische Mord. General, Sie sind ein großer Künstler.
+siebenter sich losreißend: Ich lebe noch! (Zum Major, der den
+Revolver hebt.) Schieß, du Lump! (Läuft zur Balkontür, stößt
+sie auf, tritt hinaus und ruft.) Ich lebe noch!
+inspektor folgt ihm hastig.
+major will beiden nach.
+stadtkommandant hält ihn zurück: Nicht nötig. Der
+Große Platz ist leer und abgeriegelt.
+stimme des Siebenten: Warum lasst ihr mich so allein?
+inspektor kommt nach kurzer Pause in den Saal zurück: Er
+ist vom Balkon gestürzt. (Sich einen Ärmel säubernd.)
+Er beugte sich weit über die Brüstung, dem ausgestorbenen Platz entgegen, rief: »Warum lasst ihr mich so
+allein?«, taumelte, als werde er ohnmächtig, ich wollte
+ihn halten, er verlor das Übergewicht, glitt mir aus den
+Händen und fi el in die Tiefe.
+präsidentin: Er hat seinen Tod nicht lange überlebt.
+sohn: Sein zweiter Fenstersturz. Und diesmal fi el er selber.
+kriegsminister zum Inspektor: Wahrscheinlich hat er Sie
+missverstanden. Er hat geglaubt, Sie wollten ihn stoßen.
+leibarzt: Der Mann hatte Tugenden, die sich nicht einmal
+ein Dorfpfarrer leisten kann. Passen Sie auf, er kommt
+in den Himmel.
+kriegsminister: Da gehört er auch hin. Orchestersessel,
+erste Reihe.
+inspektor zum Stadtkommandanten: Man muss die Reste
+beseitigen.
+leibarzt: Das kann er, General.
+kriegsminister: Er ist die ideale politische Putzfrau. Er
+lässt kein Stäubchen übrig.
+stadtkommandant nickt dem Inspektor kurz zu: Und bringen Sie die Häftlinge zurück!
+inspektor winkt den zwei Soldaten.
+die zwei Soldaten nötigen die Häftlinge zum Aufbruch.
+Der Zug setzt sich in Bewegung. Die Soldaten verlassen den Saal
+zuerst. Der Inspektor überwacht, an der Tür, den langsamen, durch
+kurze Wortwechsel sich hinzögernden Abmarsch. Der Sechste
+geht, stumm und in sich gekehrt, als Erster ab.
+sohn im Vorbeigehen zum Major: Schämst du dich nicht?
+major: Weswegen?
+präsidentin zum Sohn: Lass ihn. Auch Fragen sind Antworten. (Sohn geht ab.)
+major verbeugt sich knapp vor ihr.
+präsidentin schaut ihn an, spuckt, leicht gelangweilt, vor ihm
+aus und geht ab.
+premier zum Stadtkommandanten: Ich bitte, noch einmal,
+um einen meiner Anzüge. Früher pfl egte man den letzten Wunsch eines Verurteilten zu erfüllen.
+stadtkommandant: Früher ist nicht heute. (Zeigt auf die
+Tür.) Die Fotografen warten. Die Welt wartet auf Ihr letztes Bild.
+premier zerfetzt seine Damenbluse, geht verstört ab.
+leibarzt zum Stadtkommandanten: In aller Feindschaft –
+hüten Sie sich vor guten Menschen!
+Durchschuß verringert
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+118
+stadtkommandant: Keine Angst, es gibt nicht viele. Der
+Tribun war unser Trojanisches Pferd, weiter nichts.
+kriegsminister: Ein Trojanischer Esel war er!
+major: Das sogenannte Gewissen ist ein empfi ndliches
+Handicap.
+leibarzt: Und eine Krankheit, die man, zu Unrecht, lange
+für unheilbar hielt.
+stadtkommandant: Ich darf mich von den beiden Herren verabschieden?
+kriegsminister: Sie dürfen. Sogar für immer.
+stadtkommandant: Aus dem Sturz des Regimes wurde
+ein Fenstersturz.
+leibarzt: Und ein Kabinettswechsel mit tödlichem Ausgang.
+stadtkommandant: Das System und Sie kann ich nicht
+retten.
+kriegsminister zum Leibarzt: Erst ist er ihn losgeworden.
+Nun wird er uns los. (Zum Stadtkommandanten.) Was
+macht mein Sohn?
+major: Die Garnison wurde aus der Luft zerstört.
+kriegsminister: Dann muss ich mich beeilen. Vielleicht
+hol ich ihn noch ein.
+Leibarzt und Kriegsminister ab.
+stadtkommandant zum Inspektor: Dieser letzte Wunsch
+lässt sich erfüllen. Der Major wird die Urteile verlesen. Arrangieren Sie bis dahin alles Erforderliche.
+inspektor: Sofort! (Schon in der Tür.) Der Sturz vom Balkon wäre vermeidbar gewesen.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Kästner – Die Schule der Diktatoren – 1. Satzlauf – 28.11.12
+120 121
+stadtkommandant: Beeilen Sie sich!
+inspektor: Mich beschäftigt das Staatsbegräbnis. Die Fallhöhe, schließlich die Marmorplatten auf dem Großen
+Platz – der Tote dürfte nicht sonderlich dekorativ aussehen.
+stadtkommandant ungeduldig: Und?
+inspektor: Nun befi ndet sich unter den Verurteilten (zeigt
+dorthin, wo der Sechste gestanden hat) ein Doppelgänger.
+Seine Leiche wäre für den gedachten Zweck wesentlich
+geeigneter.
+stadtkommandant: Details überlasse ich dem Fingerspitzengefühl meiner Mitarbeiter.
+inspektor: Sehr wohl, Herr Präsident. (Eilt ab. Die Tür
+schließt sich.)
+stadtkommandant gibt dem Major ein Papier: Die Urteile
+des Standgerichts. Ich begrüße inzwischen die ausländischen Diplomaten. Die Herren warten, im Lesesaal, auf
+ihre Befreiung. (Lächelnd.) Es war zu gefährlich, sie während des Staatsstreichs in ihre Botschaften zu entlassen.
+major lächelnd: Zu gefährlich für sie und für uns.
+Das Telefon läutet.
+stadtkommandant hebt den Hörer ab: Ja? Verbinden Sie
+mich! (Zum Major.) Der Militärfl ugplatz. (Ins Telefon.) Am
+Apparat. Das Flugzeug aus London? (Kurze Pause.) Bringen
+Sie die Leute, in verhängten Autos und unter sorgfältigster
+Bewachung, in die Kasematten! Kein Aufsehen! Strengstes
+Stillschweigen! Danke, Herr Oberst! (Legt den Hörer auf.)
+Seine Minister, nun sind sie doch eingetroffen! (Schließt eine
+Hand zur Faust.)
+major: Auch Glück ist ein Talent.
+stadtkommandant steht auf, hebt noch einmal den Hörer
+ab: Wann wird meine Rede gesendet? Gut. Danke. (Legt
+auf.) Sie wurde soeben gesendet. Jetzt herrscht Funkstille. (Geht langsam zur Tür.)
+major begleitet ihn: Die Gedenkminute für den großen
+Toten.
+stimme des Siebenten aus der Balkonrichtung, von weit her:
+Warum ließt ihr mich so allein?
+major der, ebenso wenig wie der Stadtkommandant, die Stimme
+hört, im Weitergehen: Dann folgt die »Eroica«.
+stadtkommandant: Eine hübsche Unterhaltungsmusik
+für mein Erscheinen im Kreise der Botschafter.
+die Tür öffnet sich. Die beiden Offi ziere gehen ab. Die Tür
+schließt sich. Die Bühne ist leer.
+stimme des Siebenten zornig: Warum?
+Vorhang
+Impressumstext folgt
