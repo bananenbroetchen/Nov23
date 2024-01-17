@@ -1,17 +1,22 @@
 import re
+import unicodedata
 import numpy as np
 import time
 
 zeitpunkt1 = time.perf_counter()
 #1. Text lesen, bei jedem Leerzeichen neuen Array Punkt erstellen
-with open('test.txt', 'r') as file:
+with open('test.txt', 'r', encoding='utf-8') as file:
     text = file.read()
 #text = ""
 #text = input("Text eingeben: ")
 wordArray = text.split()
 finalWordArray = []
 for i in range (0, len(wordArray)):
-    finalWordArray.append(re.sub(r"[^a-zA-Z0-9 äöüÄÖÜ]", "", wordArray[i]))
+    normalized_word = unicodedata.normalize('NFKD', wordArray[i])
+
+    #finalWordArray.append(re.sub(r"[^äöüÄÖÜàÇçÈèÉéÊêËëÎîÏïÔôÙùÛûŸÿÆæŒœ'a-zA-Z0-9 ]", "", normalized_word))
+    
+    finalWordArray.append(re.sub(r"[ ?!.,]", "", normalized_word))
 
 # 2. Matrix erstellen, in der je die Zahl und dann das Wort steht.
 # Bei jedem hinzufügen eines Wortes wird geschaut, ob dieses schon in der Matrix ist.
@@ -39,7 +44,7 @@ for i1 in range (0, len(finalWordArray)):
 sortedWordMatrix = sorted(wordMatrix, key=lambda x: x[0], reverse=True)
 
 print("ERGEBNIS:")
-for i in range(0, 50):
+for i in range(0, len(sortedWordMatrix)):
     print(f"{sortedWordMatrix[i][0]} x {sortedWordMatrix[i][1]}")
 
 #print(wordMatrix)
