@@ -3,6 +3,8 @@ import unicodedata
 import numpy as np
 import time
 
+#
+
 zeitpunkt1 = time.perf_counter()
 #1. Text lesen, bei jedem Leerzeichen neuen Array Punkt erstellen
 with open('test.txt', 'r', encoding='utf-8') as file:
